@@ -1,0 +1,915 @@
+,Unnamed: 0,Unnamed: 0.1,roles,companies,locations,experience,skills,skill index,min_experience,max_experience,avg_experience,labels
+8,9,9,Data Scientist / ML Engineer,AVE-Promagne,"'Noida', ' Kota', ' Mumbai', ' Chandigarh', ' Lucknow', ' Agra', ' Gurgaon', ' Jaipur', 'Bangalore'",3-8 ,"'data science', 'machine learning'",-1.0,3,8,5.5,4
+11,12,12,Senior Data Scientist,Shell,"'Chennai', 'Bangalore'",6-11 ,"'data science', 'r'",-1.0,6,11,8.5,4
+12,13,13,Data Scientist,SplashLearn,'Gurgaon',4-9 ,"'computer science', 'data science', 'machine learning'",-1.0,4,9,6.5,4
+21,23,29,Data Scientist / ML Engineer,AVE-Promagne,"'Noida', ' Kota', ' Mumbai', ' Chandigarh', ' Lucknow', ' Agra', ' Gurgaon', ' Jaipur', 'Bangalore'",3-8 ,"'data science', 'machine learning'",-1.0,3,8,5.5,4
+24,26,32,Senior Data Scientist,Shell,"'Chennai', 'Bangalore'",6-11 ,"'data science', 'r'",-1.0,6,11,8.5,4
+25,27,33,Data Scientist,SplashLearn,'Gurgaon',4-9 ,"'computer science', 'data science', 'machine learning'",-1.0,4,9,6.5,4
+26,28,34,Data Scientist,Splash M,'Gurgaon',2-6 ,"'computer science', 'data science', 'machine learning'",-1.0,2,6,4.0,4
+28,30,36,Sr Data Scientist and Engineer,Sportism,'Chennai',5-8 ,"'it skills', 'data science', 'machine learning'",-1.0,5,8,6.5,4
+36,41,47,Farfetch - Senior Data Scientist,Farfetch,'NewDelhi',5-9 ,"'computer science', 'data science', 'machine learning'",-1.0,5,9,7.0,4
+38,43,49,Senior Data Scientist,Recruiterflow Inc,'Gurgaon',3-8 ,"'it skills', 'data science', 'machine learning'",-1.0,3,8,5.5,4
+44,50,56,Data Scientist,DBS,'Mumbai',2-7 ,"'r', 'data science', 'machine learning'",-1.0,2,7,4.5,4
+47,53,59,Sr. Data Scientist- Advanced Analytics/Data Science & Machine Learning,Fidelity IT Jobs,'Gurgaon',7-12 ,"'data science', 'r'",-1.0,7,12,9.5,4
+49,55,61,Senior Data Scientist - Product Development Firm - IIT/NIT/BITS,Huquo Consulting Pvt. Ltd,"'Gurgaon', 'Delhi'",5-10 ,"'data science', 'data scientist'",-1.0,5,10,7.5,4
+51,57,63,Senior Data Scientist/Data Scientist,Tredence Analytics Solutions Private Limited,"'Gurgaon', ' Chennai', 'Bangalore'",2-7 ,"'data science', 'machine learning'",-1.0,2,7,4.5,4
+53,59,65,Senior Marketing Data Scientist,Thomson Reuters,'Hyderabad',4-6 ,"'data science', 'machine learning'",-1.0,4,6,5.0,4
+54,60,66,Data Scientist: Advanced Analytics,IBM,'Bangalore',2-5 ,"'data science', 'machine learning'",-1.0,2,5,3.5,4
+55,61,67,Data Scientist: Advanced Analytics,IBM,'Bangalore',5-10 ,"'data science', 'machine learning'",-1.0,5,10,7.5,4
+56,62,68,Data Scientist: Advanced Analytics,IBM,'Bangalore',2-5 ,"'data science', 'machine learning'",-1.0,2,5,3.5,4
+59,65,71,Data Scientist: Advanced Analytics,IBM,'Gurgaon',5-10 ,"'it skills', 'data science', 'machine learning'",-1.0,5,10,7.5,4
+60,66,72,Junior Data Scientist,KWALEE INDIA PRIVATE LIMITED,'Bangalore',1-6 ,"'data science', 'machine learning'",-1.0,1,6,3.5,4
+65,71,77,Senior Data Scientist - Regression Modeling,Liquiloans,'Mumbai',4-6 ,"'data scientist', 'machine learning'",-1.0,4,6,5.0,4
+70,77,83,Data Scientist,KWALEE INDIA PRIVATE LIMITED,'Bangalore',2-7 ,"'data science', 'machine learning'",-1.0,2,7,4.5,4
+74,81,87,Manager Data Analytics or Data Scientist,Thomson Reuters,'Bangalore',4-7 ,'data science',-1.0,4,7,5.5,4
+79,86,92,Lead Data Scientist - Statistical Modeling/Machine Learning,Bigtapp Analytics,'Chennai',5-8 ,"'data science', 'data scientist'",-1.0,5,8,6.5,4
+88,95,101,Sr Data Scientist,Fragma data systems pvt ltd,'Bangalore',5-10 ,"'it skills', 'data scientist'",-1.0,5,10,7.5,4
+90,97,103,Senior Data Scientist (Fintech),NIRA,'Bangalore',4-6 ,"'data science', 'machine learning'",-1.0,4,6,5.0,4
+98,107,113,Data Scientist - Process Excellence & Analytics,Huquo Consulting Pvt. Ltd,'Noida',2-4 ,"'data science', 'data scientist', 'machine learning'",-1.0,2,4,3.0,4
+101,110,116,Data Scientist - BFSI,Huquo Consulting Pvt. Ltd,"'Gurgaon', 'Delhi'",3-8 ,"'data science', 'data scientist', 'machine learning'",-1.0,3,8,5.5,4
+104,114,120,Assistant Manager - Data Scientist - Insurance,Huquo Consulting Pvt. Ltd,'Gurgaon',2-7 ,"'data science', 'r'",-1.0,2,7,4.5,4
+107,117,123,Lead - Data Scientist - Banking Domain - IIT/NIT/BITS,Huquo Consulting Pvt. Ltd,'Gurgaon',4-8 ,"'data science', 'r', 'machine learning'",-1.0,4,8,6.0,4
+114,124,130,Hiring For Data Analyst and Data Scientist For Gurgaon Location,Shadow Placements,"'Noida', ' Gurgaon', 'Delhi'",3-7 ,"'machine learning', 'data science', 'r'",-1.0,3,7,5.0,4
+115,125,131,"Sr. Prin, Data Scientist",BNY Mellon,'Pune',6-10 ,'data science',-1.0,6,10,8.0,4
+116,126,132,Data Scientist,Fundnel Limited,'Mumbai',3-5 ,"'computer science', 'data science', 'machine learning'",-1.0,3,5,4.0,4
+118,128,134,Resulticks Hiring - Data Scientist @ Chennai Location,RESULTICKS DIGITALS INDIA PRIVATE LIMITED,'Chennai',3-6 ,"'machine learning', 'data science'",-1.0,3,6,4.5,4
+121,131,137,Data Scientist and Director Data Scientist,OyoRooms,"'Hyderabad', ' Gurgaon', ' Bangalore', 'Delhi'",2-7 ,"'data science', 'machine learning'",-1.0,2,7,4.5,4
+124,134,140,Sr. Data Scientist,Easy Recruit,'Bangalore',8-11 ,"'machine learning', 'data science', 'r', 'artificial intelligence'",-1.0,8,11,9.5,4
+126,136,142,Senior Data Scientist/Tech Lead - SQL/Python/Big Data,Exploro Solutions,"'Pune', ' Chennai', 'Bangalore'",5-10 ,"'data science', 'r', 'artificial intelligence', 'big data', 'machine learning'",-1.0,5,10,7.5,4
+138,148,154,Data Scientist - Image Recognition/Machine Learning,CarbyneTech India,'Hyderabad',5-10 ,"'data scientist', 'artificial intelligence', 'machine learning'",-1.0,5,10,7.5,4
+142,152,158,Data Scientist - Image Processing/Machine Learning,CarbyneTech India,'Hyderabad',6-11 ,"'data science', 'data scientist', 'machine learning'",-1.0,6,11,8.5,4
+143,153,159,Data Scientist - Image Processing/ Machine Learning,CarbyneTech India,'Hyderabad',6-11 ,"'data science', 'data scientist', 'machine learning'",-1.0,6,11,8.5,4
+145,155,161,Associate Data Scientist,CBA Services Private Limited,'Bangalore',3-6 ,"'data science', 'big data', 'sql'",-1.0,3,6,4.5,4
+152,162,168,Senior Data Scientist,SALESFORCE,'Hyderabad',5-10 ,"'computer science', 'data science', 'sql'",-1.0,5,10,7.5,4
+164,175,181,Data Scientist,CBA Services Private Limited,'Bangalore',5-8 ,"'data science', 'big data', 'sql'",-1.0,5,8,6.5,4
+166,177,183,Data Scientist,DigilyticsAI,'Gurgaon',3-6 ,"'machine learning', 'data science', 'r', 'artificial intelligence'",-1.0,3,6,4.5,4
+168,179,185,Data Scientist - Python,Team4Progress,'Bangalore',4-7 ,'data science',-1.0,4,7,5.5,4
+169,180,186,Principal Data Scientist,Walmart,'Bangalore',7-12 ,"'big data', 'it skills', 'data science'",-1.0,7,12,9.5,4
+170,181,187,Data Scientist,Nokia,'Gurgaon',4-7 ,"'data science', 'machine learning'",-1.0,4,7,5.5,4
+174,187,193,Senior Data Scientist - Research,Gojek,'Bangalore',5-11 ,"'computer science', 'data science', 'machine learning', 'sql'",-1.0,5,11,8.0,4
+176,189,195,Senior Data Scientist,Gsn Games India,'Bangalore',3-5 ,"'computer science', 'data science', 'machine learning'",-1.0,3,5,4.0,4
+177,190,196,Senior Data Scientist,Walmart,'Bangalore',5-9 ,"'data science', 'machine learning'",-1.0,5,9,7.0,4
+181,195,201,Senior Data Scientist,Ericsson Global Services,'Bangalore',10-20 ,'data science',-1.0,10,20,15.0,4
+192,206,212,Data Scientist - Machine Learning,Synctactic AI,'Bangalore',8-13 ,"'big data', 'machine learning', 'data science', 'java'",-1.0,8,13,10.5,4
+194,208,214,Data Scientist - Machine Learning/Deep Learning,Serving Skill,'Bangalore',4-6 ,"'data science', 'data scientist', 'machine learning'",-1.0,4,6,5.0,4
+195,209,215,Data Scientist - Machine Learning,Catalyst,'Bangalore',2-7 ,"'data science', 'data scientist', 'machine learning'",-1.0,2,7,4.5,4
+196,210,216,Data Scientist - HDFS/SQL,Glowfin India Solutions,'Bangalore',3-7 ,'data scientist',-1.0,3,7,5.0,4
+201,215,221,Senior Data Scientist - Analytics Organization- Data Science,PlaceMinds Consulting Pvt. Ltd,"'Mumbai', ' Pune', 'Bangalore'",6-11 ,'data science',-1.0,6,11,8.5,4
+212,227,233,Data Scientist - WhatsApp Calling/Remote Presence,WhatsApp Inc.,'Remote',8-13 ,"'computer science', 'data science', 'machine learning'",-1.0,8,13,10.5,4
+215,230,236,DBCG IND - GAMMA Senior Data Scientist,Boston Consulting Group,"'Mumbai', ' Delhi', ' Chennai', 'Bengaluru'",6-10 ,"'computer science', 'data science', 'artificial intelligence', 'machine learning'",-1.0,6,10,8.0,4
+231,247,253,Data Scientist For leading NBFC,SKILLVENTORY,'Pune',1-6 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,1,6,3.5,4
+242,259,265,Manager - Artificial Intelligence/Data Scientist - BFSI,Dimensions HRD Consultants,"'Mumbai', 'NaviMumbai'",15-20 ,"'data science', 'artificial intelligence', 'data scientist', 'machine learning'",-1.0,15,20,17.5,4
+243,260,266,Data Scientist - Machine Learning / Statistical Modeling,Yogy HR Solutions,'Mumbai',5-9 ,"'machine learning', 'it skills', 'data science', 'data scientist'",-1.0,5,9,7.0,4
+245,262,268,Tech Lead - Data Scientist,ZF Friedrichshafen AG,'Hyderabad',5-5 ,"'data science', 'sql'",-1.0,5,5,5.0,4
+254,271,277,Data Scientist,Bigshyft Hiring for Credgenics,'Noida',2-5 ,'data science',-1.0,2,5,3.5,4
+261,279,285,Data Scientist,Kinara Financial Private Limited,'Bangalore',3-8 ,"'data science', 'machine learning', 'sql'",-1.0,3,8,5.5,4
+262,280,286,Data Scientist,kk consulting services,'Bangalore',2-5 ,"'data science', 'machine learning'",-1.0,2,5,3.5,4
+264,282,288,Experience Data Scientist,Microsoft,'Bangalore',2-5 ,"'data science', 'machine learning'",-1.0,2,5,3.5,4
+266,284,290,Senior Data Scientist For leading NBFC,SKILLVENTORY,'Pune',6-11 ,"'data science', 'artificial intelligence'",-1.0,6,11,8.5,4
+270,288,294,LNT Hiring || Data Scientist || Mumbai & Delhi (On Site),Federal Soft Systems Private Limited,"'Mumbai', 'Delhi'",4-9 ,"'data science', 'machine learning'",-1.0,4,9,6.5,4
+272,292,298,Data & Applied Scientist,Microsoft,"'Noida', ' Hyderabad', 'Bangalore'",3-7 ,"'data science', 'machine learning'",-1.0,3,7,5.0,4
+279,299,305,Senior Data Scientist,Boston Consulting Group,"'Mumbai', ' Delhi', 'Chennai'",1-2 ,"'computer science', 'data science', 'artificial intelligence', 'machine learning'",-1.0,1,2,1.5,4
+280,300,306,Senior Data Scientist ( m / f / d ),Adidas,'Gurgaon',5-10 ,'data scientist',-1.0,5,10,7.5,4
+286,307,313,Data Scientist (freelance),2Coms,"'Hyderabad', 'Hyderabad'",3-8 ,'data scientist',-1.0,3,8,5.5,4
+289,311,317,Principal Data Scientist at Quick Heal,Quick Heal,'Pune',10-15 ,"'it skills', 'data science', 'machine learning'",-1.0,10,15,12.5,4
+290,312,318,Data Scientist,RapidOps,'Ahmedabad',3-5 ,"'it skills', 'data science', 'machine learning'",-1.0,3,5,4.0,4
+291,313,319,Data Scientist,RapidOps,'Ahmedabad',3-5 ,"'it skills', 'data science', 'machine learning'",-1.0,3,5,4.0,4
+297,319,325,Data Scientist,Resilinc,'Pune',4-7 ,'data science',-1.0,4,7,5.5,4
+298,320,326,Hiring Data Scientist/Data Analytics For Reliance Retail Mumbai,Reliance Retail,'Mumbai',5-10 ,'data science',-1.0,5,10,7.5,4
+299,321,327,Data Scientist - Supply Chain Analytics,ASIA STAR EXPORT SERVICES PRIVATE LIMITED,'Remote',4-9 ,'data scientist',-1.0,4,9,6.5,4
+303,325,331,Data Science - Senior Data Scientist,Paytm,"'Noida', 'Bangalore'",2-4 ,"'data science', 'r', 'data scientist'",-1.0,2,4,3.0,4
+305,329,335,Data Scientist: Advanced Analytics,IBM,'Delhi',5-7 ,"'it skills', 'data science', 'machine learning'",-1.0,5,7,6.0,4
+308,332,338,Data Scientist,Adept Global,"'Mumbai', 'Thane'",2-7 ,"'data science', 'data scientist'",-1.0,2,7,4.5,4
+317,342,348,Data scientist,CHANGE LEADERS CONSULTING,'Bangalore',5-9 ,"'data science', 'machine learning'",-1.0,5,9,7.0,4
+320,345,351,Data Scientist,Snaphunt,'Bangalore',0-2 ,"'data science', 'machine learning'",-1.0,0,2,1.0,4
+322,347,353,data scientist,Global Talent Pool,'Bangalore',0-2 ,"'data science', 'machine learning'",-1.0,0,2,1.0,4
+323,348,354,Data Scientist - Fintech Space ( Asset Leasing Company),The Recruiters,'Remote',4-9 ,'data scientist',-1.0,4,9,6.5,4
+326,351,357,Data Scientist,Cielo Talent Management Ltd,'Bangalore',5-10 ,"'data science', 'java'",-1.0,5,10,7.5,4
+329,354,360,Data Scientist,Boston Consulting Group,'NewDelhi',2-5 ,"'data science', 'data scientist', 'artificial intelligence', 'computer science', 'big data'",-1.0,2,5,3.5,4
+331,356,362,Data Scientist,Cloudstrats Technologies Private Limited,"'New Delhi', ' Delhi ', 'Mumbai'",3-5 ,'data science',-1.0,3,5,4.0,4
+335,361,367,Data Scientist - Statistical Modeling,Aviation Indeed,'Noida',3-8 ,"'data scientist', 'big data'",-1.0,3,8,5.5,4
+345,372,378,Senior Data Scientist,Juniper Networks,'Bangalore',11-15 ,"'data science', 'machine learning'",-1.0,11,15,13.0,4
+346,373,379,Sr. Data Scientist,Galytix,'Gurgaon',3-8 ,"'it skills', 'data science'",-1.0,3,8,5.5,4
+355,383,389,Data Science - Senior Data Scientist,Paytm,'NewDelhi',2-4 ,"'data science', 'machine learning'",-1.0,2,4,3.0,4
+365,395,401,Junior Data Scientist/ta,WSD Consultant,"'Mumbai', ' Hyderabad', ' Pune', ' Gurgaon', ' Chennai', 'Bengaluru'",1-5 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,1,5,3.0,4
+366,396,402,Associate Data Scientist - I,Philips India Limited,'Bangalore',4-6 ,'data science',-1.0,4,6,5.0,4
+367,397,403,Junior Data Scientist,Analytos,'India',0-2 ,"'it skills', 'big data', 'data science'",-1.0,0,2,1.0,4
+382,413,419,Data Scientist,TMD - The Modern Dimension,"'New Delhi', 'Bangalore'",2-7 ,"'data science', 'data scientist', 'machine learning'",-1.0,2,7,4.5,4
+386,417,423,Data Scientist,BlackBuck,"'Gurgaon', 'Bengaluru'",3-7 ,"'it skills', 'data science', 'machine learning'",-1.0,3,7,5.0,4
+387,418,424,Data Scientist- Predictive Modelling,Emmess technologies private Limited,"'Noida', ' Gurgaon', ' Bangalore', 'Delhi'",3-8 ,"'data scientist', 'r'",-1.0,3,8,5.5,4
+389,420,426,Data Scientist,Country Veggie,"'Bharuch', ' Jaipur', ' Bhopal', ' Mumbai', ' Jhansi', ' Nagpur', ' Ghaziabad', ' Jaunpur', ' Kanpur', ' Delhi', ' Lucknow', ' Agra', ' Gurgaon', ' Rajkot', 'Bengaluru'",1-3 ,"'data science', 'machine learning'",-1.0,1,3,2.0,4
+394,425,431,Junior Programmer Data Scientist,GSK India,'Bangalore',2-5 ,"'data science', 'r', 'artificial intelligence', 'machine learning'",-1.0,2,5,3.5,4
+397,428,434,Senio Executive - Data Scientist,NielsenIQ,'Vadodara',0-4 ,"'data science', 'r', 'data scientist', 'big data'",-1.0,0,4,2.0,4
+399,430,436,Senior Data Scientist - Product Development Firm - IIT/ NIT/ BITS,Huquo Consulting Pvt. Ltd,"'Gurgaon', 'Delhi'",5-10 ,"'data science', 'data scientist', 'machine learning'",-1.0,5,10,7.5,4
+400,431,437,Senior Manager - Data Scientist - Insurance,Huquo Consulting Pvt. Ltd,'Gurgaon',5-9 ,"'data science', 'data scientist'",-1.0,5,9,7.0,4
+401,432,438,Senior Manager - Data Scientist - Banking Domain - IIT/NIT/BITS,Huquo Consulting Pvt. Ltd,"'Gurgaon', 'Delhi'",8-12 ,"'sql', 'data scientist'",-1.0,8,12,10.0,4
+402,433,439,Senior Business Analytics - Data Scientist/ NASDAQ Firm,Huquo Consulting Pvt. Ltd,'Gurgaon',1-3 ,'data science',-1.0,1,3,2.0,4
+403,434,440,Senior Business Analytics - Data Scientist/NASDAQ Firm,Huquo Consulting Pvt. Ltd,'Gurgaon',1-3 ,'data science',-1.0,1,3,2.0,4
+404,435,441,Senior/Lead Data Scientist - (Revenue Management),o9 Solutions Management India Private Limited,'Bangalore',4-9 ,"'machine learning', 'data science'",-1.0,4,9,6.5,4
+408,439,445,Lead - Data Analyst / Scientist,Axim Technologies,'Bangalore',12-14 ,"'r', 'data scientist'",1.0,12,14,13.0,4
+409,440,446,Senior Manager / Manager - Data Scientist (NLP),RiverForest Connections Private Limited,"'Mumbai', ' New Delhi', ' Pune', ' Chennai', ' Gurgaon', ' Bangalore', 'Mumbai'",2-7 ,"'data science', 'data scientist', 'machine learning'",-1.0,2,7,4.5,4
+413,445,451,Data Scientist: Advanced Analytics,IBM,'Bengaluru',5-7 ,"'data science', 'machine learning'",-1.0,5,7,6.0,4
+418,450,456,Data Scientist - AI Flagship,Schneider Electric,'Bangalore',4-7 ,"'data science', 'data scientist', 'big data', 'machine learning'",-1.0,4,7,5.5,4
+426,460,466,Senior Data Scientist /Senior Software Engineer,Terawe Technologies Pvt. Ltd.,"'Kochi', ' Hyderabad', 'Bangalore'",6-10 ,'data science',-1.0,6,10,8.0,4
+427,463,469,Associate Data Scientist,Blow Trumpet Solutions,'Delhi',1-5 ,"'it skills', 'data science', 'machine learning'",-1.0,1,5,3.0,4
+437,474,480,Senior Data Scientist,Fractal Analytics,'Mumbai',5-9 ,"'data science', 'data scientist', 'artificial intelligence', 'machine learning'",-1.0,5,9,7.0,4
+439,476,482,Urgent Hiring For Data Scientist,Mount Talent Consulting Private Limited,"'Gurgaon', 'Bangalore'",1-6 ,"'r', 'data scientist'",-1.0,1,6,3.5,4
+444,481,487,Lead Data Scientist,Fractal Analytics,'Mumbai',5-9 ,"'data science', 'data scientist', 'machine learning'",-1.0,5,9,7.0,4
+445,482,488,Lead Data Scientist,mPokket,'Kolkata',6-11 ,"'r', 'data scientist', 'big data'",1.0,6,11,8.5,4
+453,491,497,Associate Data Scientist - Java/ Scala/ Apache Server,Smart work Consultants,'Noida',1-4 ,"'java', 'data science'",-1.0,1,4,2.5,4
+459,497,503,"Data Scientist , Data Products",Visa,'Bangalore',3-7 ,"'data science', 'it skills', 'data scientist'",-1.0,3,7,5.0,4
+465,504,510,Data Scientist,Nihilent,'Gurgaon',5-8 ,"'data science', 'it skills', 'big data', 'computer science'",-1.0,5,8,6.5,4
+469,509,515,Data Scientist,Harappa Learning Pvt Ltd,'NewDelhi',3-6 ,'data scientist',-1.0,3,6,4.5,4
+470,510,516,Data Scientist,Quarks,'NewDelhi',3-8 ,'data science',-1.0,3,8,5.5,4
+471,511,517,"NLP , Data Scientist",Fractal Analytics,"'Mumbai', 'Bangalore'",3-6 ,'data scientist',-1.0,3,6,4.5,4
+472,512,518,Data Scientist,Intellect Design Arena Limited,"'Mumbai', ' Hyderabad', ' New Delhi', ' Pune', 'Chennai'",2-7 ,"'data scientist', 'machine learning'",-1.0,2,7,4.5,4
+474,514,520,Data Scientist,Smartanalyst India Pvt Ltd,'Gurgaon',7-12 ,"'data science', 'r', 'data scientist', 'big data'",-1.0,7,12,9.5,4
+480,520,526,Data Scientist,T & A Solutions,'Gurgaon',2-6 ,"'computer science', 'data science', 'machine learning'",-1.0,2,6,4.0,4
+482,522,528,Data Scientist,Lenskart,'Faridabad',3-8 ,"'data science', 'data scientist'",-1.0,3,8,5.5,4
+483,523,529,Data Scientist,Jubna,'Noida',4-9 ,'data science',-1.0,4,9,6.5,4
+491,531,537,Data Scientist,The National Collateral Management Services Limited,'Gurgaon',5-10 ,'data scientist',-1.0,5,10,7.5,4
+492,532,538,Data Scientist,Seven Consultancy,'Delhi',2-7 ,'data science',-1.0,2,7,4.5,4
+493,534,540,Data Scientist,Zekardo Automotive Solutions,'Gurgaon',5-8 ,'data science',-1.0,5,8,6.5,4
+497,539,545,Data Scientist,Diverse Lynx,'Bangalore',4-6 ,"'computer science', 'data science', 'machine learning'",-1.0,4,6,5.0,4
+499,541,547,Data Scientist - Machine Learning,RPA Infotech Pvt.Ltd,'Gurgaon',2-7 ,"'computer science', 'data science', 'machine learning'",-1.0,2,7,4.5,4
+501,543,549,Data Scientist,Splice Global,'Gurgaon',2-5 ,"'it skills', 'data science', 'machine learning'",-1.0,2,5,3.5,4
+502,544,550,Data Scientist,AxmiYaN HR Solutions Private Limited,'Gurgaon',6-8 ,"'computer science', 'data science', 'machine learning'",-1.0,6,8,7.0,4
+506,549,555,Sr. Data Scientist,C P CAREERS PRIVATE LIMITED,"'Hyderabad', ' Chennai', 'Bangalore'",8-11 ,"'it skills', 'data science', 'machine learning'",-1.0,8,11,9.5,4
+508,551,557,Sr . Data Scientist,RKSV,"'Mumbai', 'Bangalore'",7-9 ,'data science',-1.0,7,9,8.0,4
+514,557,563,Senior Data Scientist,Poshmark,'Pune',2-5 ,"'data science', 'data scientist', 'big data', 'machine learning'",-1.0,2,5,3.5,4
+523,566,572,Senior Data Scientist,Myntra,'Bangalore',2-4 ,"'data science', 'data scientist', 'computer science'",-1.0,2,4,3.0,4
+524,567,573,Senior Data Scientist,TEKION,'Bangalore',3-8 ,"'machine learning', 'big data', 'data science'",-1.0,3,8,5.5,4
+527,570,576,Senior Data Scientist,Gojek,'Bangalore',6-12 ,"'data science', 'machine learning'",-1.0,6,12,9.0,4
+542,585,591,Senior Data Scientist,Spiceworks,'Bangalore',5-9 ,"'data science', 'machine learning', 'sql'",-1.0,5,9,7.0,4
+545,588,594,Senior Data Scientist,Greenizon Agritech Consultancy,'Bangalore',1-2 ,"'data science', 'r', 'data scientist', 'machine learning'",-1.0,1,2,1.5,4
+546,589,595,Senior Data Scientist,Bidgely Technologies Private Limited,'Bangalore',4-6 ,"'r', 'data scientist', 'computer science', 'machine learning'",1.0,4,6,5.0,4
+548,591,597,Senior Data Scientist,"Rakuten, Inc.",'Bangalore',4-9 ,'data science',-1.0,4,9,6.5,4
+549,592,598,Senior Data Scientist,News Technology Services,'Bangalore',4-8 ,"'data science', 'machine learning'",-1.0,4,8,6.0,4
+550,593,599,Sr Data Scientist,IHS Markit,'Bangalore',4-7 ,"'it skills', 'data science', 'machine learning', 'big data', 'computer science'",-1.0,4,7,5.5,4
+551,594,600,Senior Data Scientist,QBurst,'Bangalore',3-6 ,"'data scientist', 'machine learning'",-1.0,3,6,4.5,4
+552,596,602,Senior Data Scientist,Microsoft,'Bangalore',11-15 ,"'computer science', 'data science', 'machine learning'",-1.0,11,15,13.0,4
+561,606,612,Senior Data Scientist AWS,Peopleplus Professional Services Pvt. Ltd.,'Bangalore',10-15 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,10,15,12.5,4
+562,607,613,Senior Data Scientist,Gojek,'Bangalore',5-10 ,"'data science', 'machine learning'",-1.0,5,10,7.5,4
+575,620,626,Data Scientist: Advanced Analytics,IBM,'Pune',5-10 ,"'data science', 'machine learning'",-1.0,5,10,7.5,4
+577,622,628,Data Scientist: Advanced Analytics,IBM,'Kolkata',5-10 ,"'it skills', 'data science', 'machine learning'",-1.0,5,10,7.5,4
+582,628,634,Data Scientist - III,General Mills,'Mumbai',5-10 ,'data science',-1.0,5,10,7.5,4
+584,630,636,"Prin, Data Scientist",BNY Mellon,'Pune',10-12 ,'data science',-1.0,10,12,11.0,4
+588,634,640,Data Scientist Manufacturing Systems and Industry 4.0,Philips India Limited,'Pune',5-9 ,"'computer science', 'data science', 'machine learning'",-1.0,5,9,7.0,4
+590,636,642,Data Scientist - Insurance,Huquo Consulting Pvt. Ltd,"'Noida', 'Gurgaon'",1-6 ,"'data science', 'data scientist', 'artificial intelligence'",-1.0,1,6,3.5,4
+592,638,644,SAVP - Data Scientist - Data Science Team - Insurance Domain,Huquo Consulting Pvt. Ltd,'Gurgaon',9-14 ,"'data science', 'data scientist', 'artificial intelligence', 'machine learning'",-1.0,9,14,11.5,4
+593,639,645,Data Scientist - Data Science Team - Insurance Domain,Huquo Consulting Pvt. Ltd,'Gurgaon',8-13 ,"'data science', 'data scientist', 'artificial intelligence', 'machine learning'",-1.0,8,13,10.5,4
+598,645,651,Data Scientist - Insurance,Huquo Consulting Pvt. Ltd,"'Noida', 'Gurgaon'",2-7 ,'data scientist',-1.0,2,7,4.5,4
+601,648,654,Python Data Scientist - Banking/Retail Domain - IIT/IIM/ISI/DSE,Huquo Consulting Pvt. Ltd,'Delhi',1-5 ,"'data science', 'data scientist'",-1.0,1,5,3.0,4
+605,652,658,Manager - Data Scientist - Insurance,Huquo Consulting Pvt. Ltd,'Gurgaon',3-7 ,"'data science', 'data scientist'",-1.0,3,7,5.0,4
+606,653,659,Assistant Vice President - Data Scientist - KPO,Huquo Consulting Pvt. Ltd,'Delhi',6-11 ,"'data science', 'data scientist'",-1.0,6,11,8.5,4
+607,654,660,Python Data Scientist - Banking/ Retail Domain - IIT/ IIM /ISI/ DSE,Huquo Consulting Pvt. Ltd,'Delhi',1-5 ,"'data science', 'data scientist'",-1.0,1,5,3.0,4
+608,655,661,Data Scientist - KPO,Huquo Consulting Pvt. Ltd,'Gurgaon',2-4 ,"'data science', 'data scientist'",-1.0,2,4,3.0,4
+609,656,662,Assistant Vice President - Data Scientist - KPO,Huquo Consulting Pvt. Ltd,'Delhi',11-17 ,"'data science', 'data scientist'",-1.0,11,17,14.0,4
+614,661,667,SAVP - Data Scientist - Data Science Team - Insurance Domain,Huquo Consulting Pvt. Ltd,'Gurgaon',8-13 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,8,13,10.5,4
+615,662,668,Hiring Data Scientist ( DSU ) with a Leading Bank,SKILLVENTORY,'NewDelhi',5-10 ,"'data science', 'artificial intelligence'",-1.0,5,10,7.5,4
+620,668,674,Lead Data Scientist AI/ML,Peopleplus Professional Services Pvt. Ltd.,'Bangalore',8-14 ,"'computer science', 'data science', 'machine learning'",-1.0,8,14,11.0,4
+623,671,677,Lead Data Scientist,DAZN,'Bangalore',6-9 ,"'data scientist', 'computer science'",-1.0,6,9,7.5,4
+624,672,678,Lead Data Scientist,Team4Progress,"'Mumbai', ' Pune', 'Bangalore'",5-8 ,"'computer science', 'data science', 'machine learning'",-1.0,5,8,6.5,4
+626,674,680,Lead Data Scientist,Multi Recruit,'Bangalore',15-17 ,"'data science', 'r', 'big data'",-1.0,15,17,16.0,4
+627,675,681,Data Science - Lead Data Scientist,Paytm,"'Pune', 'Bangalore'",3-5 ,"'computer science', 'data science'",-1.0,3,5,4.0,4
+629,677,683,Lead Data Scientist,Xpheno,"'Mumbai', ' Hyderabad', ' Pune', ' Chennai', 'Bangalore'",5-8 ,"'data science', 'machine learning'",-1.0,5,8,6.5,4
+637,685,691,Data Scientist,Odessa,'Bangalore',5-7 ,"'r', 'data scientist'",-1.0,5,7,6.0,4
+641,690,696,SDE1 Data Scientist,Multi Recruit,'Bangalore',8-13 ,'data science',-1.0,8,13,10.5,4
+643,692,698,Lead Machine Learning Engineer/ Data Scientist,whiz.ai,'Pune',5-9 ,"'data science', 'data scientist', 'big data', 'machine learning'",-1.0,5,9,7.0,4
+651,700,706,Senior Data Scientist,PlaceMinds Consulting Pvt. Ltd,"'Mumbai', ' Pune', 'Bangalore'",6-11 ,'data science',-1.0,6,11,8.5,4
+656,705,711,Data Scientist / Analytics,Peoplefy Infosolutions Pvt. Ltd.,'Mumbai',4-9 ,'data science',-1.0,4,9,6.5,4
+659,708,714,Data Scientist ( IT,Jacobs,'NaviMumbai',7-12 ,"'data science', 'data scientist', 'machine learning'",-1.0,7,12,9.5,4
+662,711,717,Data Scientist 2,PayPal,'Chennai',6-10 ,"'computer science', 'data science', 'machine learning'",-1.0,6,10,8.0,4
+663,712,718,Data Scientist,EA Games (Electronic Arts),'Hyderabad',3-8 ,"'data science', 'data scientist', 'computer science', 'machine learning'",-1.0,3,8,5.5,4
+667,716,722,Data Scientist,mPokket,'Kolkata',3-5 ,"'r', 'data scientist', 'computer science'",-1.0,3,5,4.0,4
+670,719,725,Data Scientist,EarlySalary.com,'Chennai',2-7 ,"'data science', 'data scientist', 'artificial intelligence', 'big data', 'machine learning'",-1.0,2,7,4.5,4
+677,726,732,Data Scientist - Phd only,NDS Infoserv,'Mumbai',0-2 ,"'machine learning', 'it skills', 'data science'",-1.0,0,2,1.0,4
+688,737,743,Senior Data Scientist,MetLife,'Hyderabad',5-8 ,"'data science', 'big data', 'machine learning'",-1.0,5,8,6.5,4
+694,744,750,Senior Data Scientist,Kyndryl,'Hyderabad',5-9 ,"'computer science', 'data science', 'machine learning'",-1.0,5,9,7.0,4
+695,745,751,Senior Data Scientist,Snaphunt,'Ahmedabad',6-11 ,"'data science', 'machine learning'",-1.0,6,11,8.5,4
+697,747,753,Senior Data Scientist,Wolters Kluwer,"'Mumbai', 'Pune'",5-9 ,"'computer science', 'data science', 'machine learning'",-1.0,5,9,7.0,4
+698,748,754,Sr . Data Scientist,Qventus,'REMOTE',5-9 ,"'computer science', 'data science', 'artificial intelligence', 'machine learning'",-1.0,5,9,7.0,4
+709,759,765,Senior Data Scientist,Easebuzz Private Limited,'Pune',1-6 ,"'data science', 'data scientist', 'machine learning'",-1.0,1,6,3.5,4
+717,768,774,Senior Data Scientist,Peak,'Mumbai',3-8 ,"'data science', 'data scientist'",-1.0,3,8,5.5,4
+719,770,776,Senior Data Scientist,JoinHandsHR,'Mumbai',3-8 ,'data scientist',-1.0,3,8,5.5,4
+720,771,777,Senior Data Scientist ML & NLP expert,SG Analytics Pvt Ltd,'Pune',5-10 ,"'data science', 'data scientist'",-1.0,5,10,7.5,4
+722,774,780,Senior Data Scientist,lgoAnalytics,'Pune',3-4 ,"'data science', 'machine learning'",-1.0,3,4,3.5,4
+723,775,781,Senior Data Scientist,Mom Project,'Remote',2-7 ,"'data science', 'machine learning'",-1.0,2,7,4.5,4
+724,776,782,Senior Data Scientist (Applied),CADENCE PARTNERS LLP,'Dehradun',2-4 ,"'data science', 'machine learning'",-1.0,2,4,3.0,4
+725,777,783,Senior Data Scientist (theoretical),CADENCE PARTNERS LLP,'Dehradun',2-4 ,"'data science', 'artificial intelligence', 'machine learning', 'it skills'",-1.0,2,4,3.0,4
+726,778,784,Sr . Field Data Scientist,Domino Data Lab,'Remote',3-8 ,"'data science', 'data scientist', 'machine learning'",-1.0,3,8,5.5,4
+730,782,788,Senior Data Scientist,ecolab,'Pune',6-8 ,"'computer science', 'data science', 'sql'",-1.0,6,8,7.0,4
+733,785,791,Senior Data Scientist,Snaphunt,'Remote',3-8 ,"'data science', 'machine learning'",-1.0,3,8,5.5,4
+734,786,792,Senior Data Scientist,XYENTA LIMITED,'Remote',4-7 ,"'data science', 'big data', 'sql'",-1.0,4,7,5.5,4
+743,796,802,Data Scientist: Advanced Analytics,IBM,'Bangalore',4-8 ,"'it skills', 'data science'",-1.0,4,8,6.0,4
+753,807,813,Junior / Senior Data Scientist - Consulting Firm,Huquo Consulting Pvt. Ltd,'Mumbai',2-7 ,"'data science', 'r', 'data scientist'",-1.0,2,7,4.5,4
+755,809,815,Junior/ Senior Data Scientist - Consulting Firm,Huquo Consulting Pvt. Ltd,'Mumbai',2-7 ,"'data science', 'data scientist'",-1.0,2,7,4.5,4
+756,810,816,Junior/Senior Data Scientist,Huquo Consulting Pvt. Ltd,'Mumbai',1-6 ,"'data science', 'data scientist'",-1.0,1,6,3.5,4
+761,815,821,Lead Data Scientist,ATYETI,'Pune',3-10 ,"'data science', 'data scientist', 'machine learning'",-1.0,3,10,6.5,4
+766,820,826,Lead Data Scientist,Bit Brothers Tech Pvt Ltd,'Mumbai',4-6 ,"'computer science', 'data science', 'machine learning'",-1.0,4,6,5.0,4
+771,825,831,Lead Data Scientist-New Frontiers,idfc first bank,'Remote',4-8 ,"'data science', 'machine learning'",-1.0,4,8,6.0,4
+772,827,833,Hiring For Lead Data Scientist,Impact Guru,"'Thane', ' Navi Mumbai', 'Mumbai'",5-9 ,"'data science', 'data scientist'",-1.0,5,9,7.0,4
+773,828,834,Lead Data Scientist,Tide Software,'Hyderabad',1-6 ,"'it skills', 'data science', 'big data'",-1.0,1,6,3.5,4
+785,841,847,Data Scientist,Bigshyft Hiring for MyMoneyMantra,'NewDelhi',2-5 ,'data science',-1.0,2,5,3.5,4
+794,850,856,Data Scientist,"Rakuten, Inc.",'Bangalore',3-7 ,"'computer science', 'data science', 'machine learning'",-1.0,3,7,5.0,4
+795,851,857,Data Scientist,RKSV,"'Mumbai', 'Bangalore'",3-7 ,'data science',-1.0,3,7,5.0,4
+796,852,858,Data scientist ( WFH ),SPM Jobs,'Bangalore',8-10 ,"'data scientist', 'machine learning'",-1.0,8,10,9.0,4
+799,855,861,"Data Scientist, Customer DNA","Rakuten, Inc.",'Bangalore',2-7 ,"'computer science', 'data science', 'machine learning'",-1.0,2,7,4.5,4
+802,858,864,Data Scientist,NextGen Healthcare,'Bangalore',2-6 ,"'data science', 'machine learning'",-1.0,2,6,4.0,4
+803,859,865,Principal Data Scientist,Narayana Heath,'Bangalore',6-9 ,"'data science', 'artificial intelligence', 'data scientist'",-1.0,6,9,7.5,4
+809,865,871,Data Scientist,Big Data BizViz,"'Hyderabad', 'Bangalore'",3-8 ,"'data scientist', 'machine learning'",-1.0,3,8,5.5,4
+811,867,873,Data Scientist,Pixxel,'Bangalore',4-7 ,"'data science', 'data scientist', 'computer science'",-1.0,4,7,5.5,4
+812,868,874,Data Scientist,Kaleidofin,"'Chennai', 'Bangalore'",6-11 ,"'data scientist', 'big data', 'machine learning'",-1.0,6,11,8.5,4
+815,871,877,Data scientist,AMPLIFY ANALYTIX INDIA PRIVATE LIMITED,'Bengaluru',3-5 ,"'computer science', 'data science', 'machine learning'",-1.0,3,5,4.0,4
+818,874,880,Principal Data Scientist,Walmart,'Bangalore',7-12 ,"'data science', 'machine learning', 'big data'",-1.0,7,12,9.5,4
+820,877,883,DevRel Data Scientist,TruEra,'Bangalore',2-7 ,"'computer science', 'data science', 'artificial intelligence', 'machine learning'",-1.0,2,7,4.5,4
+822,879,885,Zscaler Data Scientist,cloudneeti,'Bangalore',7-12 ,"'data scientist', 'computer science', 'machine learning'",-1.0,7,12,9.5,4
+827,884,890,Staff Data Scientist,Myntra,'Bangalore',2-5 ,"'data science', 'java', 'data scientist', 'computer science'",-1.0,2,5,3.5,4
+828,885,891,Data Scientist I,CommerceIQ,'Bangalore',1-3 ,"'data science', 'r', 'data scientist'",-1.0,1,3,2.0,4
+831,888,894,Data Scientists-AI/ML,Peopleplus Professional Services Pvt. Ltd.,'Bangalore',3-7 ,"'computer science', 'data science', 'machine learning'",-1.0,3,7,5.0,4
+832,889,895,Data Scientist,Becton Dickinson India Pvt Ltd,'Bangalore',3-7 ,"'computer science', 'data science', 'machine learning'",-1.0,3,7,5.0,4
+843,900,906,Staff Data Scientist- Policy Optimization,"Rakuten, Inc.",'Bangalore',3-7 ,"'computer science', 'data science', 'machine learning'",-1.0,3,7,5.0,4
+844,901,907,Staff Data Scientist,"Rakuten, Inc.",'Bangalore',3-7 ,"'computer science', 'data science', 'machine learning'",-1.0,3,7,5.0,4
+850,907,913,Data Scientist,Hitachi Ltd.,'Bangalore',3-7 ,"'artificial intelligence', 'data scientist', 'machine learning'",-1.0,3,7,5.0,4
+851,908,914,Data Scientist,Staffio HR,'Bangalore',4-6 ,"'java', 'data scientist'",-1.0,4,6,5.0,4
+864,921,927,Data Scientist,Talent Zone Consultant,'Bangalore',10-12 ,"'data science', 'r', 'data scientist', 'computer science'",-1.0,10,12,11.0,4
+865,922,928,Data Scientist,Klub,'Bangalore',2-5 ,"'data science', 'r', 'data scientist', 'machine learning'",-1.0,2,5,3.5,4
+866,923,929,Data Scientist I,DAZN,'Bangalore',1-3 ,"'data scientist', 'computer science'",-1.0,1,3,2.0,4
+868,925,931,Senio Executive - Data Scientist,NielsenIQ,'Bangalore',3-6 ,"'data science', 'data scientist', 'sql'",-1.0,3,6,4.5,4
+875,932,938,Data Scientist,HotelHub,'Bangalore',6-11 ,"'r', 'data scientist', 'machine learning'",-1.0,6,11,8.5,4
+877,935,941,Business Data Scientist - Bangalore,"Pantheon India Pvt Ltd.,",'Bangalore',2-3 ,"'artificial intelligence', 'data scientist', 'machine learning'",-1.0,2,3,2.5,4
+879,937,943,Data Scientist - I / II,Sharechat,'Bangalore',1-3 ,"'java', 'data scientist', 'computer science'",-1.0,1,3,2.0,4
+880,938,944,Data Scientist,jupiter,'Bangalore',2-5 ,"'data science', 'data scientist', 'computer science', 'machine learning'",-1.0,2,5,3.5,4
+881,939,945,Principal Data Scientist,VANTAGEIQ TECHNOLOGIES (OPC) PRIVATE LIMITED,"'Chennai', 'Bangalore'",7-11 ,"'it skills', 'data science', 'machine learning'",-1.0,7,11,9.0,4
+882,940,946,Data Scientist,HRDevi Talent Acquisition,'Bengaluru',5-7 ,'data scientist',-1.0,5,7,6.0,4
+883,941,947,Data Scientist - Ads & Promotion Platform (APP),Gojek,'Bangalore',3-8 ,"'data science', 'machine learning'",-1.0,3,8,5.5,4
+884,942,948,Distinguished Data Scientist,Walmart,'Bangalore',10-14 ,"'it skills', 'data science', 'big data', 'artificial intelligence', 'machine learning'",-1.0,10,14,12.0,4
+886,944,950,Data Scientist,News Technology Services,'Bangalore',3-6 ,"'data science', 'machine learning'",-1.0,3,6,4.5,4
+887,946,952,Data Scientist,Sense Talent Labs,'Bangalore',2-6 ,"'data science', 'data scientist'",-1.0,2,6,4.0,4
+888,948,954,Data Scientist,BCD Meetings & Events,'Bangalore',2-5 ,"'data science', 'machine learning'",-1.0,2,5,3.5,4
+889,949,955,Data Scientist,Advito,'Bangalore',3-7 ,"'data science', 'machine learning'",-1.0,3,7,5.0,4
+890,950,956,"Data Scientist-Supply Chain Analytics-Chainalytics,Bangalore",CHAINALYTICS SERVICES PRIVATE LIMITED,'Bangalore',4-6 ,"'data science', 'r', 'sql'",-1.0,4,6,5.0,4
+891,951,957,Data Scientist,Capco,'Bangalore',4-9 ,"'data science', 'big data'",-1.0,4,9,6.5,4
+892,952,958,Data Scientist,BCD Travel,'Bangalore',3-7 ,"'data science', 'machine learning'",-1.0,3,7,5.0,4
+894,954,960,Data Scientist @ Bangalore,Fujitsu,"'Pune', 'Bangalore'",4-9 ,'data science',-1.0,4,9,6.5,4
+896,956,962,Data Scientist,Brillio,'Bangalore',3-6 ,"'data science', 'machine learning'",-1.0,3,6,4.5,4
+897,957,963,Data Scientist,Scaleorg,"'Chennai', 'Bangalore'",3-8 ,"'data science', 'machine learning'",-1.0,3,8,5.5,4
+899,959,965,Data Scientist,Brandmuscle,'Bangalore',4-7 ,"'data science', 'machine learning'",-1.0,4,7,5.5,4
+901,961,967,Data Scientist,Braintosoul Consulting,'Bengaluru',5-10 ,"'it skills', 'data science', 'computer science'",-1.0,5,10,7.5,4
+902,962,968,Data Scientist Machine Learning (Commerce BU),Blue Yonder,'Bengaluru',4-8 ,"'machine learning', 'it skills', 'data science'",-1.0,4,8,6.0,4
+903,963,969,Data Scientist,Narayana Health,'Bangalore',2-4 ,'data scientist',-1.0,2,4,3.0,4
+904,964,970,Data Scientist,NTT Data,'Bengaluru',1-3 ,"'it skills', 'data science'",-1.0,1,3,2.0,4
+905,965,971,Data Scientist,Jupiter.money,'Bangalore',2-5 ,"'data science', 'data scientist', 'computer science', 'machine learning'",-1.0,2,5,3.5,4
+907,967,973,Data Scientist,BPRISE,'Mumbai',3-7 ,"'data science', 'machine learning', 'big data'",-1.0,3,7,5.0,4
+910,972,978,Data Scientist,Reubro,"'Kochi', 'Cochin'",3-8 ,"'it skills', 'data science', 'machine learning', 'big data'",-1.0,3,8,5.5,4
+911,973,979,Data Scientist,Reubro,'Kochi',3-8 ,"'it skills', 'data science', 'machine learning', 'big data'",-1.0,3,8,5.5,4
+912,974,980,Data Scientist,Reubro,'Kochi',3-8 ,"'it skills', 'data science', 'machine learning', 'big data'",-1.0,3,8,5.5,4
+913,975,981,"Software Developers / Coders - AI, ML and Data Scientist",NIYA LOGISTICS & AVIATION SKILL DEVELOPMENT TECHNOLOGY PRIVATE LIMITED,'Bangalore',1-3 ,"'data science', 'java', 'artificial intelligence', 'machine learning'",-1.0,1,3,2.0,4
+914,976,982,Data Scientist,ANI Technologies Pvt. Ltd.,'Bangalore',5-8 ,"'computer science', 'data science', 'machine learning'",-1.0,5,8,6.5,4
+920,983,989,Data Scientist,Becton Dickinson India Pvt Ltd,'Bangalore',6-11 ,"'data science', 'machine learning'",-1.0,6,11,8.5,4
+930,997,1003,Data Scientist Machine Learning (Commerce BU),Blue Yonder,'Bengaluru',4-8 ,"'computer science', 'data science', 'machine learning', 'big data'",-1.0,4,8,6.0,4
+940,1013,1019,Data Scientist / Machine Learning Engineer,PubMatic,'Pune',3-7 ,"'r', 'data scientist', 'computer science', 'machine learning'",-1.0,3,7,5.0,4
+948,1021,1027,Sr. Data Scientist - Bangalore,Selective Global Search Pvt. Ltd.,'Bangalore',8-12 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,8,12,10.0,4
+950,1023,1029,Senior Data Scientist with Pyspark and Databricks German MNC,Valuable Consulting,'Bangalore',8-10 ,"'sql', 'it skills', 'data science', 'machine learning'",-1.0,8,10,9.0,4
+961,1038,1044,Data Scientist,Jubilant Foodworks,'Noida',3-6 ,'data science',-1.0,3,6,4.5,4
+972,1050,1056,Data Scientist,NOVIQUE HEALTH,"'Mumbai', ' Delhi', 'Pune'",2-7 ,"'data science', 'machine learning'",-1.0,2,7,4.5,4
+973,1051,1057,Data Scientist,Gauge Data Solutions Pvt Ltd,'Noida',2-7 ,'data scientist',-1.0,2,7,4.5,4
+975,1053,1059,Data Scientist,Sun Life,'Gurgaon',4-9 ,'data science',-1.0,4,9,6.5,4
+987,1068,1074,Assistant Manager/ Manager/ Data Scientist - Python/ Machine Learning,Huquo Consulting Pvt. Ltd,'Bangalore',3-8 ,"'data science', 'machine learning'",-1.0,3,8,5.5,4
+993,1074,1080,Assistant Manager/Manager/Data Scientist - Python/Machine Learning,Huquo Consulting Pvt. Ltd,'Bangalore',3-8 ,"'data science', 'data scientist'",-1.0,3,8,5.5,4
+1037,1122,1128,Data Scientist,MetLife,'Hyderabad',3-5 ,"'data science', 'data scientist', 'big data'",-1.0,3,5,4.0,4
+1045,1130,1136,Data Scientist with AI and Optimisation Speciality,ICAV Tech Pvt. Ltd.,'Remote',2-7 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,2,7,4.5,4
+1046,1132,1138,"Data Scientist,Pan India",Grytfit Tech Pvt Ltd,'Remote',3-6 ,"'data scientist', 'machine learning'",-1.0,3,6,4.5,4
+1047,1133,1139,Data Scientist,Shaadi.com,'Mumbai',3-5 ,"'data science', 'r', 'data scientist', 'big data', 'machine learning'",-1.0,3,5,4.0,4
+1048,1134,1140,Data Scientist,SVKMs Narsee Monjee Institute of Management Studies - NMIMS,'Mumbai',2-7 ,'data science',-1.0,2,7,4.5,4
+1052,1139,1145,Data Scientist,MABZONE IT SOLUTIONS,'Mohali',2-3 ,"'data science', 'data scientist', 'computer science'",-1.0,2,3,2.5,4
+1063,1150,1156,Data Scientist,Contrado Imaging Ltd,'Ahmedabad',1-7 ,"'data science', 'data scientist'",-1.0,1,7,4.0,4
+1066,1153,1159,Data Scientist,Peak,'Hyderabad',2-7 ,"'data science', 'machine learning', 'sql'",-1.0,2,7,4.5,4
+1073,1160,1166,Data Scientist - Python/sas/r,Huquo Consulting Pvt. Ltd,'Mumbai',2-6 ,"'data science', 'data scientist'",-1.0,2,6,4.0,4
+1076,1163,1169,Data Scientist,ecolab,'Pune',3-5 ,"'computer science', 'data science'",-1.0,3,5,4.0,4
+1085,1172,1178,Data Scientist,Tech Vedika,'Hyderabad',3-6 ,"'data scientist', 'machine learning'",-1.0,3,6,4.5,4
+1090,1177,1183,Data Scientist,Teleperformance India,'Mumbai',1-6 ,"'computer science', 'data science', 'machine learning'",-1.0,1,6,3.5,4
+1095,1182,1188,Data Scientist,Kyndryl,'Chennai',3-7 ,"'it skills', 'data science', 'machine learning', 'big data', 'computer science'",-1.0,3,7,5.0,4
+1096,1183,1189,Data Scientist,iSOCRATES,'Mysore',3-7 ,"'data science', 'machine learning'",-1.0,3,7,5.0,4
+1104,1192,1198,Data Scientist I,Visible Alpha,'Mumbai',1-3 ,"'it skills', 'data science'",-1.0,1,3,2.0,4
+1107,1195,1201,Data Scientist,Internet Brands,'Mumbai',1-5 ,"'data science', 'r', 'data scientist', 'machine learning'",-1.0,1,5,3.0,4
+1116,1204,1210,Principal Data Scientist,Quadratyx,'Hyderabad',9-12 ,"'data science', 'machine learning', 'big data'",-1.0,9,12,10.5,4
+1124,1212,1218,Data Scientist,torcai digital media,'Pune',3-6 ,"'data science', 'machine learning'",-1.0,3,6,4.5,4
+1125,1213,1219,Data Scientist,Aiotize,'Mohali',3-7 ,"'data scientist', 'machine learning'",-1.0,3,7,5.0,4
+1128,1216,1222,"Principal Data Scientist,Pan India",Apna Recruiter,'Remote',7-10 ,"'data scientist', 'computer science', 'machine learning'",-1.0,7,10,8.5,4
+1130,1218,1224,Principal Data Scientist,CereSight,'India',4-9 ,"'computer science', 'data science', 'artificial intelligence', 'machine learning', 'big data'",-1.0,4,9,6.5,4
+1135,1225,1231,Data Scientist,Analytos,'India',2-4 ,'data science',-1.0,2,4,3.0,4
+1136,1226,1232,Principal Data Scientist,BookMyShow,'Mumbai',8-10 ,"'data scientist', 'big data'",-1.0,8,10,9.0,4
+1137,1227,1233,Data Scientist,Buckman,'Chennai',3-8 ,"'data science', 'machine learning'",-1.0,3,8,5.5,4
+1139,1230,1236,Data Scientist,Infobizzs Services,'Vadodara',2-5 ,'data scientist',-1.0,2,5,3.5,4
+1140,1231,1237,Data Scientist 2,Microsoft,'Hyderabad',3-6 ,"'machine learning', 'it skills', 'data science'",-1.0,3,6,4.5,4
+1141,1232,1238,Data Scientist,Central Business Solution,'Pune',2-7 ,"'it skills', 'machine learning', 'data scientist'",-1.0,2,7,4.5,4
+1142,1234,1240,Data Scientist,Diverse Lynx,'Pune',2-7 ,"'data science', 'it skills', 'data scientist'",-1.0,2,7,4.5,4
+1144,1236,1242,Data Scientist,Nisum Technologies,'Hyderabad',3-7 ,"'computer science', 'data science'",-1.0,3,7,5.0,4
+1145,1238,1244,Data Scientist,Hallmark IT Healthcare Solutions Private Limited,'Remote',5-8 ,"'data science', 'sql'",-1.0,5,8,6.5,4
+1152,1245,1251,Data Scientist,SPAATech Solutions India Pvt Ltd,'Kolkata',7-12 ,'data science',-1.0,7,12,9.5,4
+1182,1278,1284,Data Scientist,Kanpur plastipack ltd,'Kanpur',1-3 ,'data science',-1.0,1,3,2.0,4
+1185,1281,1287,Data Scientist,Aureus Analytics,'Mumbai',5-10 ,"'data science', 'machine learning'",-1.0,5,10,7.5,4
+1186,1282,1288,Data Scientist,Seven Consultancy,'Hyderabad',3-5 ,"'computer science', 'data science'",-1.0,3,5,4.0,4
+1190,1287,1293,Data Scientist,IndiaInfoline,'Mumbai',1-2 ,"'data science', 'big data'",-1.0,1,2,1.5,4
+1210,1311,1317,Assistant Vice President - Data Scientist - KPO,Huquo Consulting Pvt. Ltd,'India',6-10 ,"'data science', 'data scientist'",-1.0,6,10,8.0,4
+1211,1312,1318,Assistant Vice President - Data Scientist - KPO,Huquo Consulting Pvt. Ltd,'India',11-17 ,"'data science', 'data scientist'",-1.0,11,17,14.0,4
+1212,1313,1319,Assistant Vice President - Data Scientist,Huquo Consulting Pvt. Ltd,'India',6-11 ,"'data science', 'data scientist'",-1.0,6,11,8.5,4
+1217,1318,1324,Data Scientist - AWS/Python/Big Data Tools,Intelizest Consulting,'Chennai',7-12 ,"'data science', 'data scientist', 'big data'",-1.0,7,12,9.5,4
+1219,1320,1326,Team Leader - Data Scientist - Mumbai,Premier Consultants,'Mumbai',8-13 ,"'data science', 'data scientist'",-1.0,8,13,10.5,4
+1224,1325,1331,Senior Data & Applied Scientist,Microsoft,'Bangalore',5-8 ,"'data science', 'machine learning'",-1.0,5,8,6.5,4
+1234,1335,1341,Data Scientist -Mumbai /Bangalore -Only from Product Based Company,EVOLVE TECHNOLOGIES AND SERVICES PRIVATE LIMITED,"'Bangalore', 'Mumbai'",3-8 ,"'data science', 'artificial intelligence'",-1.0,3,8,5.5,4
+1239,1342,1348,Data Scientist | Python | PySpark | SQL | Upto 14 LPA,O3 Hire,"'Hyderabad', 'Gurgaon'",2-7 ,'data science',-1.0,2,7,4.5,4
+1269,1375,1381,Data Scientist,Tiger Analytics,'Chennai',4-9 ,'data scientist',-1.0,4,9,6.5,4
+1271,1377,1383,Data Scientist,Climate Connect,'Pune',2-5 ,'data scientist',-1.0,2,5,3.5,4
+1313,1424,1430,Data Scientist,2Base,"'Kochi', 'Palghat'",4-8 ,'data scientist',-1.0,4,8,6.0,4
+1315,1428,1434,Data Scientist,Kennedys,'Trivandrum',3-6 ,'data scientist',-1.0,3,6,4.5,4
+1323,1437,1443,Data Scientist,Contus,'Chennai',3-6 ,'data scientist',-1.0,3,6,4.5,4
+1336,1455,1461,DATA SCIENTIST,VentureWise Pvt Ltd.,'Hyderabad',2-5 ,'data scientist',-1.0,2,5,3.5,4
+1362,1484,1490,Data Scientist,AKANA SERVICES PRIVATE LIMITED,"'Hyderabad', ' Pune', 'Bangalore'",4-8 ,"'data science', 'machine learning'",-1.0,4,8,6.0,4
+1363,1485,1491,Data Scientist/ Internet Industry/ Gurgaon/ WFH,Career Future Consultant,'Gurgaon',4-8 ,"'data science', 'data scientist'",-1.0,4,8,6.0,4
+1364,1486,1492,Data Scientist | Product Based Company Only | Immediate joiner | Ggn,Career Konnection,'Gurgaon',1-6 ,"'it skills', 'data science', 'machine learning', 'artificial intelligence'",-1.0,1,6,3.5,4
+1367,1490,1496,Data Scientist - GO-PAY,C42 Engineering India Pvt. Ltd.,'Bangalore',3-8 ,"'data science', 'machine learning'",-1.0,3,8,5.5,4
+1371,1494,1500,Digital Scientist - Data Science,ACIESIND PRIVATE LIMITED,'Remote',2-7 ,"'data science', 'r', 'machine learning'",-1.0,2,7,4.5,4
+1374,1497,1503,Principal Data & Applied Scientist Manager,Microsoft,'Hyderabad',11-15 ,"'computer science', 'data science'",-1.0,11,15,13.0,4
+1377,1500,1506,Principal Data Scientist (Big Data),Jobskey Consultancy,'Bangalore',4-9 ,"'data science', 'big data'",-1.0,4,9,6.5,4
+1382,1505,1511,Data Scientists Risk and Marketing Analytics,Waytogo Consultants Pvt Ltd,"'Mumbai', 'Mumbai'",4-9 ,'data science',-1.0,4,9,6.5,4
+1383,1506,1512,Data Scientist,RiverForest Connections Private Limited,"'Mumbai', 'Chennai'",2-6 ,'data scientist',-1.0,2,6,4.0,4
+1389,1513,1519,Sr. Data Scientist,Hiremate HR Consulting,'Pune',5-6 ,"'data science', 'data scientist', 'machine learning'",-1.0,5,6,5.5,4
+1390,1514,1520,Required! Data Scientist Executives,Web King Services,"'Hyderabad', 'Delhi'",0-5 ,'data science',-1.0,0,5,2.5,4
+1403,1530,1536,Data Scientist II,Delhivery,'Gurgaon',2-6 ,"'data science', 'sql'",-1.0,2,6,4.0,4
+1408,1535,1541,Data Scientist Intern,zBliss Technologies,"'Chennai', 'Bengaluru'",0-2 ,"'data science', 'machine learning'",-1.0,0,2,1.0,4
+1409,1536,1542,Data Scientist Intern,zMed Healthcare Technologies,"'Chennai', 'Bengaluru'",0-2 ,"'data science', 'machine learning'",-1.0,0,2,1.0,4
+1412,1539,1545,Data Scientist,AR Consultant,"'Pune', 'Bangalore'",5-8 ,"'machine learning', 'data science', 'it skills'",-1.0,5,8,6.5,4
+1415,1542,1548,Data Scientist- Ph.D Fresher,TECPLIX TECHNOLOGIES PRIVATE LIMITED,'Bangalore',0-1 ,"'it skills', 'data science', 'artificial intelligence', 'data scientist', 'machine learning'",-1.0,0,1,0.5,4
+1427,1556,1562,Data Scientist / ML Engineer,AVE-Promagne,"'Noida', ' Kota', ' Mumbai', ' Chandigarh', ' Lucknow', ' Agra', ' Gurgaon', ' Jaipur', 'Bangalore'",3-8 ,"'data science', 'machine learning'",-1.0,3,8,5.5,4
+1430,1559,1565,Senior Data Scientist,Shell,"'Chennai', 'Bangalore'",6-11 ,"'data science', 'r'",-1.0,6,11,8.5,4
+1431,1560,1566,Data Scientist,SplashLearn,'Gurgaon',4-9 ,"'computer science', 'data science', 'machine learning'",-1.0,4,9,6.5,4
+1432,1561,1567,Data Scientist,Splash M,'Gurgaon',2-6 ,"'computer science', 'data science', 'machine learning'",-1.0,2,6,4.0,4
+1434,1563,1569,Sr Data Scientist and Engineer,Sportism,'Chennai',5-8 ,"'it skills', 'data science', 'machine learning'",-1.0,5,8,6.5,4
+1444,1576,1582,Data Scientist / ML Engineer,AVE-Promagne,"'Noida', ' Kota', ' Mumbai', ' Chandigarh', ' Lucknow', ' Agra', ' Gurgaon', ' Jaipur', 'Bangalore'",3-8 ,"'data science', 'machine learning'",-1.0,3,8,5.5,4
+1447,1579,1585,Senior Data Scientist,Shell,"'Chennai', 'Bangalore'",6-11 ,"'data science', 'r'",-1.0,6,11,8.5,4
+1448,1580,1586,Data Scientist,SplashLearn,'Gurgaon',4-9 ,"'computer science', 'data science', 'machine learning'",-1.0,4,9,6.5,4
+1449,1581,1587,Data Scientist,Splash M,'Gurgaon',2-6 ,"'computer science', 'data science', 'machine learning'",-1.0,2,6,4.0,4
+1451,1583,1589,Sr Data Scientist and Engineer,Sportism,'Chennai',5-8 ,"'it skills', 'data science', 'machine learning'",-1.0,5,8,6.5,4
+1459,1594,1600,Farfetch - Senior Data Scientist,Farfetch,'NewDelhi',5-9 ,"'computer science', 'data science', 'machine learning'",-1.0,5,9,7.0,4
+1461,1596,1602,Senior Data Scientist,Recruiterflow Inc,'Gurgaon',3-8 ,"'it skills', 'data science', 'machine learning'",-1.0,3,8,5.5,4
+1467,1603,1609,Data Scientist,DBS,'Mumbai',2-7 ,"'r', 'data science', 'machine learning'",-1.0,2,7,4.5,4
+1470,1606,1612,Sr. Data Scientist- Advanced Analytics/Data Science & Machine Learning,Fidelity IT Jobs,'Gurgaon',7-12 ,"'data science', 'r'",-1.0,7,12,9.5,4
+1472,1608,1614,Senior Data Scientist - Product Development Firm - IIT/NIT/BITS,Huquo Consulting Pvt. Ltd,"'Gurgaon', 'Delhi'",5-10 ,"'data science', 'data scientist'",-1.0,5,10,7.5,4
+1474,1610,1616,Senior Data Scientist/Data Scientist,Tredence Analytics Solutions Private Limited,"'Gurgaon', ' Chennai', 'Bangalore'",2-7 ,"'data science', 'machine learning'",-1.0,2,7,4.5,4
+1476,1612,1618,Senior Marketing Data Scientist,Thomson Reuters,'Hyderabad',4-6 ,"'data science', 'machine learning'",-1.0,4,6,5.0,4
+1477,1613,1619,Data Scientist: Advanced Analytics,IBM,'Bangalore',2-5 ,"'data science', 'machine learning'",-1.0,2,5,3.5,4
+1478,1614,1620,Data Scientist: Advanced Analytics,IBM,'Bangalore',5-10 ,"'data science', 'machine learning'",-1.0,5,10,7.5,4
+1479,1615,1621,Data Scientist: Advanced Analytics,IBM,'Bangalore',2-5 ,"'data science', 'machine learning'",-1.0,2,5,3.5,4
+1482,1618,1624,Data Scientist: Advanced Analytics,IBM,'Gurgaon',5-10 ,"'it skills', 'data science', 'machine learning'",-1.0,5,10,7.5,4
+1483,1619,1625,Junior Data Scientist,KWALEE INDIA PRIVATE LIMITED,'Bangalore',1-6 ,"'data science', 'machine learning'",-1.0,1,6,3.5,4
+1488,1624,1630,Senior Data Scientist - Regression Modeling,Liquiloans,'Mumbai',4-6 ,"'data scientist', 'machine learning'",-1.0,4,6,5.0,4
+1493,1630,1636,Data Scientist,KWALEE INDIA PRIVATE LIMITED,'Bangalore',2-7 ,"'data science', 'machine learning'",-1.0,2,7,4.5,4
+1497,1634,1640,Manager Data Analytics or Data Scientist,Thomson Reuters,'Bangalore',4-7 ,'data science',-1.0,4,7,5.5,4
+1502,1639,1645,Lead Data Scientist - Statistical Modeling/Machine Learning,Bigtapp Analytics,'Chennai',5-8 ,"'data science', 'data scientist'",-1.0,5,8,6.5,4
+1511,1648,1654,Sr Data Scientist,Fragma data systems pvt ltd,'Bangalore',5-10 ,"'it skills', 'data scientist'",-1.0,5,10,7.5,4
+1513,1650,1656,Senior Data Scientist (Fintech),NIRA,'Bangalore',4-6 ,"'data science', 'machine learning'",-1.0,4,6,5.0,4
+1521,1660,1666,Data Scientist - Process Excellence & Analytics,Huquo Consulting Pvt. Ltd,'Noida',2-4 ,"'data science', 'data scientist', 'machine learning'",-1.0,2,4,3.0,4
+1524,1663,1669,Data Scientist - BFSI,Huquo Consulting Pvt. Ltd,"'Gurgaon', 'Delhi'",3-8 ,"'data science', 'data scientist', 'machine learning'",-1.0,3,8,5.5,4
+1527,1667,1673,Assistant Manager - Data Scientist - Insurance,Huquo Consulting Pvt. Ltd,'Gurgaon',2-7 ,"'data science', 'r'",-1.0,2,7,4.5,4
+1530,1670,1676,Lead - Data Scientist - Banking Domain - IIT/NIT/BITS,Huquo Consulting Pvt. Ltd,'Gurgaon',4-8 ,"'data science', 'r', 'machine learning'",-1.0,4,8,6.0,4
+1537,1677,1683,Hiring For Data Analyst and Data Scientist For Gurgaon Location,Shadow Placements,"'Noida', ' Gurgaon', 'Delhi'",3-7 ,"'machine learning', 'data science', 'r'",-1.0,3,7,5.0,4
+1538,1678,1684,"Sr. Prin, Data Scientist",BNY Mellon,'Pune',6-10 ,'data science',-1.0,6,10,8.0,4
+1539,1679,1685,Data Scientist,Fundnel Limited,'Mumbai',3-5 ,"'computer science', 'data science', 'machine learning'",-1.0,3,5,4.0,4
+1541,1681,1687,Resulticks Hiring - Data Scientist @ Chennai Location,RESULTICKS DIGITALS INDIA PRIVATE LIMITED,'Chennai',3-6 ,"'machine learning', 'data science'",-1.0,3,6,4.5,4
+1544,1684,1690,Data Scientist and Director Data Scientist,OyoRooms,"'Hyderabad', ' Gurgaon', ' Bangalore', 'Delhi'",2-7 ,"'data science', 'machine learning'",-1.0,2,7,4.5,4
+1547,1687,1693,Sr. Data Scientist,Easy Recruit,'Bangalore',8-11 ,"'machine learning', 'data science', 'r', 'artificial intelligence'",-1.0,8,11,9.5,4
+1549,1689,1695,Senior Data Scientist/Tech Lead - SQL/Python/Big Data,Exploro Solutions,"'Pune', ' Chennai', 'Bangalore'",5-10 ,"'data science', 'r', 'artificial intelligence', 'big data', 'machine learning'",-1.0,5,10,7.5,4
+1561,1701,1707,Data Scientist - Image Recognition/Machine Learning,CarbyneTech India,'Hyderabad',5-10 ,"'data scientist', 'artificial intelligence', 'machine learning'",-1.0,5,10,7.5,4
+1565,1705,1711,Data Scientist - Image Processing/Machine Learning,CarbyneTech India,'Hyderabad',6-11 ,"'data science', 'data scientist', 'machine learning'",-1.0,6,11,8.5,4
+1566,1706,1712,Data Scientist - Image Processing/ Machine Learning,CarbyneTech India,'Hyderabad',6-11 ,"'data science', 'data scientist', 'machine learning'",-1.0,6,11,8.5,4
+1568,1708,1714,Associate Data Scientist,CBA Services Private Limited,'Bangalore',3-6 ,"'data science', 'big data', 'sql'",-1.0,3,6,4.5,4
+1575,1715,1721,Senior Data Scientist,SALESFORCE,'Hyderabad',5-10 ,"'computer science', 'data science', 'sql'",-1.0,5,10,7.5,4
+1587,1728,1734,Data Scientist,CBA Services Private Limited,'Bangalore',5-8 ,"'data science', 'big data', 'sql'",-1.0,5,8,6.5,4
+1589,1730,1736,Data Scientist,DigilyticsAI,'Gurgaon',3-6 ,"'machine learning', 'data science', 'r', 'artificial intelligence'",-1.0,3,6,4.5,4
+1591,1732,1738,Data Scientist - Python,Team4Progress,'Bangalore',4-7 ,'data science',-1.0,4,7,5.5,4
+1592,1733,1739,Principal Data Scientist,Walmart,'Bangalore',7-12 ,"'big data', 'it skills', 'data science'",-1.0,7,12,9.5,4
+1593,1734,1740,Data Scientist,Nokia,'Gurgaon',4-7 ,"'data science', 'machine learning'",-1.0,4,7,5.5,4
+1597,1740,1746,Senior Data Scientist - Research,Gojek,'Bangalore',5-11 ,"'computer science', 'data science', 'machine learning', 'sql'",-1.0,5,11,8.0,4
+1599,1742,1748,Senior Data Scientist,Gsn Games India,'Bangalore',3-5 ,"'computer science', 'data science', 'machine learning'",-1.0,3,5,4.0,4
+1600,1743,1749,Senior Data Scientist,Walmart,'Bangalore',5-9 ,"'data science', 'machine learning'",-1.0,5,9,7.0,4
+1604,1748,1754,Senior Data Scientist,Ericsson Global Services,'Bangalore',10-20 ,'data science',-1.0,10,20,15.0,4
+1615,1759,1765,Data Scientist - Machine Learning,Synctactic AI,'Bangalore',8-13 ,"'big data', 'machine learning', 'data science', 'java'",-1.0,8,13,10.5,4
+1617,1761,1767,Data Scientist - Machine Learning/Deep Learning,Serving Skill,'Bangalore',4-6 ,"'data science', 'data scientist', 'machine learning'",-1.0,4,6,5.0,4
+1618,1762,1768,Data Scientist - Machine Learning,Catalyst,'Bangalore',2-7 ,"'data science', 'data scientist', 'machine learning'",-1.0,2,7,4.5,4
+1619,1763,1769,Data Scientist - HDFS/SQL,Glowfin India Solutions,'Bangalore',3-7 ,'data scientist',-1.0,3,7,5.0,4
+1624,1768,1774,Senior Data Scientist - Analytics Organization- Data Science,PlaceMinds Consulting Pvt. Ltd,"'Mumbai', ' Pune', 'Bangalore'",6-11 ,'data science',-1.0,6,11,8.5,4
+1635,1780,1786,Data Scientist - WhatsApp Calling/Remote Presence,WhatsApp Inc.,'Remote',8-13 ,"'computer science', 'data science', 'machine learning'",-1.0,8,13,10.5,4
+1638,1783,1789,DBCG IND - GAMMA Senior Data Scientist,Boston Consulting Group,"'Mumbai', ' Delhi', ' Chennai', 'Bengaluru'",6-10 ,"'computer science', 'data science', 'artificial intelligence', 'machine learning'",-1.0,6,10,8.0,4
+1654,1800,1806,Data Scientist For leading NBFC,SKILLVENTORY,'Pune',1-6 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,1,6,3.5,4
+1665,1812,1818,Manager - Artificial Intelligence/Data Scientist - BFSI,Dimensions HRD Consultants,"'Mumbai', 'NaviMumbai'",15-20 ,"'data science', 'artificial intelligence', 'data scientist', 'machine learning'",-1.0,15,20,17.5,4
+1666,1813,1819,Data Scientist - Machine Learning / Statistical Modeling,Yogy HR Solutions,'Mumbai',5-9 ,"'machine learning', 'it skills', 'data science', 'data scientist'",-1.0,5,9,7.0,4
+1668,1815,1821,Tech Lead - Data Scientist,ZF Friedrichshafen AG,'Hyderabad',5-5 ,"'data science', 'sql'",-1.0,5,5,5.0,4
+1677,1824,1830,Data Scientist,Bigshyft Hiring for Credgenics,'Noida',2-5 ,'data science',-1.0,2,5,3.5,4
+1684,1832,1838,Data Scientist,Kinara Financial Private Limited,'Bangalore',3-8 ,"'data science', 'machine learning', 'sql'",-1.0,3,8,5.5,4
+1685,1833,1839,Data Scientist,kk consulting services,'Bangalore',2-5 ,"'data science', 'machine learning'",-1.0,2,5,3.5,4
+1687,1835,1841,Experience Data Scientist,Microsoft,'Bangalore',2-5 ,"'data science', 'machine learning'",-1.0,2,5,3.5,4
+1689,1837,1843,Senior Data Scientist For leading NBFC,SKILLVENTORY,'Pune',6-11 ,"'data science', 'artificial intelligence'",-1.0,6,11,8.5,4
+1693,1841,1847,LNT Hiring || Data Scientist || Mumbai & Delhi (On Site),Federal Soft Systems Private Limited,"'Mumbai', 'Delhi'",4-9 ,"'data science', 'machine learning'",-1.0,4,9,6.5,4
+1695,1845,1851,Data & Applied Scientist,Microsoft,"'Noida', ' Hyderabad', 'Bangalore'",3-7 ,"'data science', 'machine learning'",-1.0,3,7,5.0,4
+1702,1852,1858,Senior Data Scientist,Boston Consulting Group,"'Mumbai', ' Delhi', 'Chennai'",1-2 ,"'computer science', 'data science', 'artificial intelligence', 'machine learning'",-1.0,1,2,1.5,4
+1703,1853,1859,Senior Data Scientist ( m / f / d ),Adidas,'Gurgaon',5-10 ,'data scientist',-1.0,5,10,7.5,4
+1709,1860,1866,Data Scientist (freelance),2Coms,"'Hyderabad', 'Hyderabad'",3-8 ,'data scientist',-1.0,3,8,5.5,4
+1712,1864,1870,Principal Data Scientist at Quick Heal,Quick Heal,'Pune',10-15 ,"'it skills', 'data science', 'machine learning'",-1.0,10,15,12.5,4
+1713,1865,1871,Data Scientist,RapidOps,'Ahmedabad',3-5 ,"'it skills', 'data science', 'machine learning'",-1.0,3,5,4.0,4
+1714,1866,1872,Data Scientist,RapidOps,'Ahmedabad',3-5 ,"'it skills', 'data science', 'machine learning'",-1.0,3,5,4.0,4
+1720,1872,1878,Data Scientist,Resilinc,'Pune',4-7 ,'data science',-1.0,4,7,5.5,4
+1721,1873,1879,Hiring Data Scientist/Data Analytics For Reliance Retail Mumbai,Reliance Retail,'Mumbai',5-10 ,'data science',-1.0,5,10,7.5,4
+1722,1874,1880,Data Scientist - Supply Chain Analytics,ASIA STAR EXPORT SERVICES PRIVATE LIMITED,'Remote',4-9 ,'data scientist',-1.0,4,9,6.5,4
+1726,1878,1884,Data Science - Senior Data Scientist,Paytm,"'Noida', 'Bangalore'",2-4 ,"'data science', 'r', 'data scientist'",-1.0,2,4,3.0,4
+1728,1882,1888,Data Scientist: Advanced Analytics,IBM,'Delhi',5-7 ,"'it skills', 'data science', 'machine learning'",-1.0,5,7,6.0,4
+1731,1885,1891,Data Scientist,Adept Global,"'Mumbai', 'Thane'",2-7 ,"'data science', 'data scientist'",-1.0,2,7,4.5,4
+1740,1895,1901,Data scientist,CHANGE LEADERS CONSULTING,'Bangalore',5-9 ,"'data science', 'machine learning'",-1.0,5,9,7.0,4
+1743,1898,1904,Data Scientist,Snaphunt,'Bangalore',0-2 ,"'data science', 'machine learning'",-1.0,0,2,1.0,4
+1745,1900,1906,data scientist,Global Talent Pool,'Bangalore',0-2 ,"'data science', 'machine learning'",-1.0,0,2,1.0,4
+1746,1901,1907,Data Scientist - Fintech Space ( Asset Leasing Company),The Recruiters,'Remote',4-9 ,'data scientist',-1.0,4,9,6.5,4
+1749,1904,1910,Data Scientist,Cielo Talent Management Ltd,'Bangalore',5-10 ,"'data science', 'java'",-1.0,5,10,7.5,4
+1752,1907,1913,Data Scientist,Boston Consulting Group,'NewDelhi',2-5 ,"'data science', 'data scientist', 'artificial intelligence', 'computer science', 'big data'",-1.0,2,5,3.5,4
+1754,1909,1915,Data Scientist,Cloudstrats Technologies Private Limited,"'New Delhi', ' Delhi ', 'Mumbai'",3-5 ,'data science',-1.0,3,5,4.0,4
+1758,1914,1920,Data Scientist - Statistical Modeling,Aviation Indeed,'Noida',3-8 ,"'data scientist', 'big data'",-1.0,3,8,5.5,4
+1768,1925,1931,Senior Data Scientist,Juniper Networks,'Bangalore',11-15 ,"'data science', 'machine learning'",-1.0,11,15,13.0,4
+1769,1926,1932,Sr. Data Scientist,Galytix,'Gurgaon',3-8 ,"'it skills', 'data science'",-1.0,3,8,5.5,4
+1778,1936,1942,Data Science - Senior Data Scientist,Paytm,'NewDelhi',2-4 ,"'data science', 'machine learning'",-1.0,2,4,3.0,4
+1788,1948,1954,Junior Data Scientist/ta,WSD Consultant,"'Mumbai', ' Hyderabad', ' Pune', ' Gurgaon', ' Chennai', 'Bengaluru'",1-5 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,1,5,3.0,4
+1789,1949,1955,Associate Data Scientist - I,Philips India Limited,'Bangalore',4-6 ,'data science',-1.0,4,6,5.0,4
+1790,1950,1956,Junior Data Scientist,Analytos,'India',0-2 ,"'it skills', 'big data', 'data science'",-1.0,0,2,1.0,4
+1805,1966,1972,Data Scientist,TMD - The Modern Dimension,"'New Delhi', 'Bangalore'",2-7 ,"'data science', 'data scientist', 'machine learning'",-1.0,2,7,4.5,4
+1809,1970,1976,Data Scientist,BlackBuck,"'Gurgaon', 'Bengaluru'",3-7 ,"'it skills', 'data science', 'machine learning'",-1.0,3,7,5.0,4
+1810,1971,1977,Data Scientist- Predictive Modelling,Emmess technologies private Limited,"'Noida', ' Gurgaon', ' Bangalore', 'Delhi'",3-8 ,"'data scientist', 'r'",-1.0,3,8,5.5,4
+1812,1973,1979,Data Scientist,Country Veggie,"'Bharuch', ' Jaipur', ' Bhopal', ' Mumbai', ' Jhansi', ' Nagpur', ' Ghaziabad', ' Jaunpur', ' Kanpur', ' Delhi', ' Lucknow', ' Agra', ' Gurgaon', ' Rajkot', 'Bengaluru'",1-3 ,"'data science', 'machine learning'",-1.0,1,3,2.0,4
+1817,1978,1984,Junior Programmer Data Scientist,GSK India,'Bangalore',2-5 ,"'data science', 'r', 'artificial intelligence', 'machine learning'",-1.0,2,5,3.5,4
+1820,1981,1987,Senio Executive - Data Scientist,NielsenIQ,'Vadodara',0-4 ,"'data science', 'r', 'data scientist', 'big data'",-1.0,0,4,2.0,4
+1822,1983,1989,Senior Data Scientist - Product Development Firm - IIT/ NIT/ BITS,Huquo Consulting Pvt. Ltd,"'Gurgaon', 'Delhi'",5-10 ,"'data science', 'data scientist', 'machine learning'",-1.0,5,10,7.5,4
+1823,1984,1990,Senior Manager - Data Scientist - Insurance,Huquo Consulting Pvt. Ltd,'Gurgaon',5-9 ,"'data science', 'data scientist'",-1.0,5,9,7.0,4
+1824,1985,1991,Senior Manager - Data Scientist - Banking Domain - IIT/NIT/BITS,Huquo Consulting Pvt. Ltd,"'Gurgaon', 'Delhi'",8-12 ,"'sql', 'data scientist'",-1.0,8,12,10.0,4
+1825,1986,1992,Senior Business Analytics - Data Scientist/ NASDAQ Firm,Huquo Consulting Pvt. Ltd,'Gurgaon',1-3 ,'data science',-1.0,1,3,2.0,4
+1826,1987,1993,Senior Business Analytics - Data Scientist/NASDAQ Firm,Huquo Consulting Pvt. Ltd,'Gurgaon',1-3 ,'data science',-1.0,1,3,2.0,4
+1827,1988,1994,Senior/Lead Data Scientist - (Revenue Management),o9 Solutions Management India Private Limited,'Bangalore',4-9 ,"'machine learning', 'data science'",-1.0,4,9,6.5,4
+1831,1992,1998,Lead - Data Analyst / Scientist,Axim Technologies,'Bangalore',12-14 ,"'r', 'data scientist'",1.0,12,14,13.0,4
+1832,1993,1999,Senior Manager / Manager - Data Scientist (NLP),RiverForest Connections Private Limited,"'Mumbai', ' New Delhi', ' Pune', ' Chennai', ' Gurgaon', ' Bangalore', 'Mumbai'",2-7 ,"'data science', 'data scientist', 'machine learning'",-1.0,2,7,4.5,4
+1836,1998,2004,Data Scientist: Advanced Analytics,IBM,'Bengaluru',5-7 ,"'data science', 'machine learning'",-1.0,5,7,6.0,4
+1841,2003,2009,Data Scientist - AI Flagship,Schneider Electric,'Bangalore',4-7 ,"'data science', 'data scientist', 'big data', 'machine learning'",-1.0,4,7,5.5,4
+1849,2013,2019,Senior Data Scientist /Senior Software Engineer,Terawe Technologies Pvt. Ltd.,"'Kochi', ' Hyderabad', 'Bangalore'",6-10 ,'data science',-1.0,6,10,8.0,4
+1850,2016,2022,Associate Data Scientist,Blow Trumpet Solutions,'Delhi',1-5 ,"'it skills', 'data science', 'machine learning'",-1.0,1,5,3.0,4
+1860,2027,2033,Senior Data Scientist,Fractal Analytics,'Mumbai',5-9 ,"'data science', 'data scientist', 'artificial intelligence', 'machine learning'",-1.0,5,9,7.0,4
+1862,2029,2035,Urgent Hiring For Data Scientist,Mount Talent Consulting Private Limited,"'Gurgaon', 'Bangalore'",1-6 ,"'r', 'data scientist'",-1.0,1,6,3.5,4
+1867,2034,2040,Lead Data Scientist,Fractal Analytics,'Mumbai',5-9 ,"'data science', 'data scientist', 'machine learning'",-1.0,5,9,7.0,4
+1868,2035,2041,Lead Data Scientist,mPokket,'Kolkata',6-11 ,"'r', 'data scientist', 'big data'",1.0,6,11,8.5,4
+1876,2044,2050,Associate Data Scientist - Java/ Scala/ Apache Server,Smart work Consultants,'Noida',1-4 ,"'java', 'data science'",-1.0,1,4,2.5,4
+1882,2050,2056,"Data Scientist , Data Products",Visa,'Bangalore',3-7 ,"'data science', 'it skills', 'data scientist'",-1.0,3,7,5.0,4
+1888,2057,2063,Data Scientist,Nihilent,'Gurgaon',5-8 ,"'data science', 'it skills', 'big data', 'computer science'",-1.0,5,8,6.5,4
+1892,2062,2068,Data Scientist,Harappa Learning Pvt Ltd,'NewDelhi',3-6 ,'data scientist',-1.0,3,6,4.5,4
+1893,2063,2069,Data Scientist,Quarks,'NewDelhi',3-8 ,'data science',-1.0,3,8,5.5,4
+1894,2064,2070,"NLP , Data Scientist",Fractal Analytics,"'Mumbai', 'Bangalore'",3-6 ,'data scientist',-1.0,3,6,4.5,4
+1895,2065,2071,Data Scientist,Intellect Design Arena Limited,"'Mumbai', ' Hyderabad', ' New Delhi', ' Pune', 'Chennai'",2-7 ,"'data scientist', 'machine learning'",-1.0,2,7,4.5,4
+1897,2067,2073,Data Scientist,Smartanalyst India Pvt Ltd,'Gurgaon',7-12 ,"'data science', 'r', 'data scientist', 'big data'",-1.0,7,12,9.5,4
+1903,2073,2079,Data Scientist,T & A Solutions,'Gurgaon',2-6 ,"'computer science', 'data science', 'machine learning'",-1.0,2,6,4.0,4
+1905,2075,2081,Data Scientist,Lenskart,'Faridabad',3-8 ,"'data science', 'data scientist'",-1.0,3,8,5.5,4
+1906,2076,2082,Data Scientist,Jubna,'Noida',4-9 ,'data science',-1.0,4,9,6.5,4
+1914,2084,2090,Data Scientist,The National Collateral Management Services Limited,'Gurgaon',5-10 ,'data scientist',-1.0,5,10,7.5,4
+1915,2085,2091,Data Scientist,Seven Consultancy,'Delhi',2-7 ,'data science',-1.0,2,7,4.5,4
+1916,2087,2093,Data Scientist,Zekardo Automotive Solutions,'Gurgaon',5-8 ,'data science',-1.0,5,8,6.5,4
+1920,2092,2098,Data Scientist,Diverse Lynx,'Bangalore',4-6 ,"'computer science', 'data science', 'machine learning'",-1.0,4,6,5.0,4
+1922,2094,2100,Data Scientist - Machine Learning,RPA Infotech Pvt.Ltd,'Gurgaon',2-7 ,"'computer science', 'data science', 'machine learning'",-1.0,2,7,4.5,4
+1924,2096,2102,Data Scientist,Splice Global,'Gurgaon',2-5 ,"'it skills', 'data science', 'machine learning'",-1.0,2,5,3.5,4
+1925,2097,2103,Data Scientist,AxmiYaN HR Solutions Private Limited,'Gurgaon',6-8 ,"'computer science', 'data science', 'machine learning'",-1.0,6,8,7.0,4
+1929,2102,2108,Sr. Data Scientist,C P CAREERS PRIVATE LIMITED,"'Hyderabad', ' Chennai', 'Bangalore'",8-11 ,"'it skills', 'data science', 'machine learning'",-1.0,8,11,9.5,4
+1931,2104,2110,Sr . Data Scientist,RKSV,"'Mumbai', 'Bangalore'",7-9 ,'data science',-1.0,7,9,8.0,4
+1937,2110,2116,Senior Data Scientist,Poshmark,'Pune',2-5 ,"'data science', 'data scientist', 'big data', 'machine learning'",-1.0,2,5,3.5,4
+1946,2119,2125,Senior Data Scientist,Myntra,'Bangalore',2-4 ,"'data science', 'data scientist', 'computer science'",-1.0,2,4,3.0,4
+1947,2120,2126,Senior Data Scientist,TEKION,'Bangalore',3-8 ,"'machine learning', 'big data', 'data science'",-1.0,3,8,5.5,4
+1950,2123,2129,Senior Data Scientist,Gojek,'Bangalore',6-12 ,"'data science', 'machine learning'",-1.0,6,12,9.0,4
+1965,2138,2144,Senior Data Scientist,Spiceworks,'Bangalore',5-9 ,"'data science', 'machine learning', 'sql'",-1.0,5,9,7.0,4
+1968,2141,2147,Senior Data Scientist,Greenizon Agritech Consultancy,'Bangalore',1-2 ,"'data science', 'r', 'data scientist', 'machine learning'",-1.0,1,2,1.5,4
+1969,2142,2148,Senior Data Scientist,Bidgely Technologies Private Limited,'Bangalore',4-6 ,"'r', 'data scientist', 'computer science', 'machine learning'",1.0,4,6,5.0,4
+1971,2144,2150,Senior Data Scientist,"Rakuten, Inc.",'Bangalore',4-9 ,'data science',-1.0,4,9,6.5,4
+1972,2145,2151,Senior Data Scientist,News Technology Services,'Bangalore',4-8 ,"'data science', 'machine learning'",-1.0,4,8,6.0,4
+1973,2146,2152,Sr Data Scientist,IHS Markit,'Bangalore',4-7 ,"'it skills', 'data science', 'machine learning', 'big data', 'computer science'",-1.0,4,7,5.5,4
+1974,2147,2153,Senior Data Scientist,QBurst,'Bangalore',3-6 ,"'data scientist', 'machine learning'",-1.0,3,6,4.5,4
+1975,2149,2155,Senior Data Scientist,Microsoft,'Bangalore',11-15 ,"'computer science', 'data science', 'machine learning'",-1.0,11,15,13.0,4
+1984,2159,2165,Senior Data Scientist AWS,Peopleplus Professional Services Pvt. Ltd.,'Bangalore',10-15 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,10,15,12.5,4
+1985,2160,2166,Senior Data Scientist,Gojek,'Bangalore',5-10 ,"'data science', 'machine learning'",-1.0,5,10,7.5,4
+1998,2173,2179,Data Scientist: Advanced Analytics,IBM,'Pune',5-10 ,"'data science', 'machine learning'",-1.0,5,10,7.5,4
+2000,2175,2181,Data Scientist: Advanced Analytics,IBM,'Kolkata',5-10 ,"'it skills', 'data science', 'machine learning'",-1.0,5,10,7.5,4
+2005,2181,2187,Data Scientist - III,General Mills,'Mumbai',5-10 ,'data science',-1.0,5,10,7.5,4
+2007,2183,2189,"Prin, Data Scientist",BNY Mellon,'Pune',10-12 ,'data science',-1.0,10,12,11.0,4
+2011,2187,2193,Data Scientist Manufacturing Systems and Industry 4.0,Philips India Limited,'Pune',5-9 ,"'computer science', 'data science', 'machine learning'",-1.0,5,9,7.0,4
+2013,2189,2195,Data Scientist - Insurance,Huquo Consulting Pvt. Ltd,"'Noida', 'Gurgaon'",1-6 ,"'data science', 'data scientist', 'artificial intelligence'",-1.0,1,6,3.5,4
+2015,2191,2197,SAVP - Data Scientist - Data Science Team - Insurance Domain,Huquo Consulting Pvt. Ltd,'Gurgaon',9-14 ,"'data science', 'data scientist', 'artificial intelligence', 'machine learning'",-1.0,9,14,11.5,4
+2016,2192,2198,Data Scientist - Data Science Team - Insurance Domain,Huquo Consulting Pvt. Ltd,'Gurgaon',8-13 ,"'data science', 'data scientist', 'artificial intelligence', 'machine learning'",-1.0,8,13,10.5,4
+2021,2198,2204,Data Scientist - Insurance,Huquo Consulting Pvt. Ltd,"'Noida', 'Gurgaon'",2-7 ,'data scientist',-1.0,2,7,4.5,4
+2024,2201,2207,Python Data Scientist - Banking/Retail Domain - IIT/IIM/ISI/DSE,Huquo Consulting Pvt. Ltd,'Delhi',1-5 ,"'data science', 'data scientist'",-1.0,1,5,3.0,4
+2028,2205,2211,Manager - Data Scientist - Insurance,Huquo Consulting Pvt. Ltd,'Gurgaon',3-7 ,"'data science', 'data scientist'",-1.0,3,7,5.0,4
+2029,2206,2212,Assistant Vice President - Data Scientist - KPO,Huquo Consulting Pvt. Ltd,'Delhi',6-11 ,"'data science', 'data scientist'",-1.0,6,11,8.5,4
+2030,2207,2213,Python Data Scientist - Banking/ Retail Domain - IIT/ IIM /ISI/ DSE,Huquo Consulting Pvt. Ltd,'Delhi',1-5 ,"'data science', 'data scientist'",-1.0,1,5,3.0,4
+2031,2208,2214,Data Scientist - KPO,Huquo Consulting Pvt. Ltd,'Gurgaon',2-4 ,"'data science', 'data scientist'",-1.0,2,4,3.0,4
+2032,2209,2215,Assistant Vice President - Data Scientist - KPO,Huquo Consulting Pvt. Ltd,'Delhi',11-17 ,"'data science', 'data scientist'",-1.0,11,17,14.0,4
+2037,2214,2220,SAVP - Data Scientist - Data Science Team - Insurance Domain,Huquo Consulting Pvt. Ltd,'Gurgaon',8-13 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,8,13,10.5,4
+2038,2215,2221,Hiring Data Scientist ( DSU ) with a Leading Bank,SKILLVENTORY,'NewDelhi',5-10 ,"'data science', 'artificial intelligence'",-1.0,5,10,7.5,4
+2043,2221,2227,Lead Data Scientist AI/ML,Peopleplus Professional Services Pvt. Ltd.,'Bangalore',8-14 ,"'computer science', 'data science', 'machine learning'",-1.0,8,14,11.0,4
+2046,2224,2230,Lead Data Scientist,DAZN,'Bangalore',6-9 ,"'data scientist', 'computer science'",-1.0,6,9,7.5,4
+2047,2225,2231,Lead Data Scientist,Team4Progress,"'Mumbai', ' Pune', 'Bangalore'",5-8 ,"'computer science', 'data science', 'machine learning'",-1.0,5,8,6.5,4
+2049,2227,2233,Lead Data Scientist,Multi Recruit,'Bangalore',15-17 ,"'data science', 'r', 'big data'",-1.0,15,17,16.0,4
+2050,2228,2234,Data Science - Lead Data Scientist,Paytm,"'Pune', 'Bangalore'",3-5 ,"'computer science', 'data science'",-1.0,3,5,4.0,4
+2052,2230,2236,Lead Data Scientist,Xpheno,"'Mumbai', ' Hyderabad', ' Pune', ' Chennai', 'Bangalore'",5-8 ,"'data science', 'machine learning'",-1.0,5,8,6.5,4
+2060,2238,2244,Data Scientist,Odessa,'Bangalore',5-7 ,"'r', 'data scientist'",-1.0,5,7,6.0,4
+2064,2243,2249,SDE1 Data Scientist,Multi Recruit,'Bangalore',8-13 ,'data science',-1.0,8,13,10.5,4
+2066,2245,2251,Lead Machine Learning Engineer/ Data Scientist,whiz.ai,'Pune',5-9 ,"'data science', 'data scientist', 'big data', 'machine learning'",-1.0,5,9,7.0,4
+2074,2253,2259,Senior Data Scientist,PlaceMinds Consulting Pvt. Ltd,"'Mumbai', ' Pune', 'Bangalore'",6-11 ,'data science',-1.0,6,11,8.5,4
+2079,2258,2264,Data Scientist / Analytics,Peoplefy Infosolutions Pvt. Ltd.,'Mumbai',4-9 ,'data science',-1.0,4,9,6.5,4
+2082,2261,2267,Data Scientist ( IT,Jacobs,'NaviMumbai',7-12 ,"'data science', 'data scientist', 'machine learning'",-1.0,7,12,9.5,4
+2085,2264,2270,Data Scientist 2,PayPal,'Chennai',6-10 ,"'computer science', 'data science', 'machine learning'",-1.0,6,10,8.0,4
+2086,2265,2271,Data Scientist,EA Games (Electronic Arts),'Hyderabad',3-8 ,"'data science', 'data scientist', 'computer science', 'machine learning'",-1.0,3,8,5.5,4
+2090,2269,2275,Data Scientist,mPokket,'Kolkata',3-5 ,"'r', 'data scientist', 'computer science'",-1.0,3,5,4.0,4
+2093,2272,2278,Data Scientist,EarlySalary.com,'Chennai',2-7 ,"'data science', 'data scientist', 'artificial intelligence', 'big data', 'machine learning'",-1.0,2,7,4.5,4
+2100,2279,2285,Data Scientist - Phd only,NDS Infoserv,'Mumbai',0-2 ,"'machine learning', 'it skills', 'data science'",-1.0,0,2,1.0,4
+2111,2290,2296,Senior Data Scientist,MetLife,'Hyderabad',5-8 ,"'data science', 'big data', 'machine learning'",-1.0,5,8,6.5,4
+2117,2297,2303,Senior Data Scientist,Kyndryl,'Hyderabad',5-9 ,"'computer science', 'data science', 'machine learning'",-1.0,5,9,7.0,4
+2118,2298,2304,Senior Data Scientist,Snaphunt,'Ahmedabad',6-11 ,"'data science', 'machine learning'",-1.0,6,11,8.5,4
+2120,2300,2306,Senior Data Scientist,Wolters Kluwer,"'Mumbai', 'Pune'",5-9 ,"'computer science', 'data science', 'machine learning'",-1.0,5,9,7.0,4
+2121,2301,2307,Sr . Data Scientist,Qventus,'REMOTE',5-9 ,"'computer science', 'data science', 'artificial intelligence', 'machine learning'",-1.0,5,9,7.0,4
+2132,2312,2318,Senior Data Scientist,Easebuzz Private Limited,'Pune',1-6 ,"'data science', 'data scientist', 'machine learning'",-1.0,1,6,3.5,4
+2140,2321,2327,Senior Data Scientist,Peak,'Mumbai',3-8 ,"'data science', 'data scientist'",-1.0,3,8,5.5,4
+2142,2323,2329,Senior Data Scientist,JoinHandsHR,'Mumbai',3-8 ,'data scientist',-1.0,3,8,5.5,4
+2143,2324,2330,Senior Data Scientist ML & NLP expert,SG Analytics Pvt Ltd,'Pune',5-10 ,"'data science', 'data scientist'",-1.0,5,10,7.5,4
+2145,2327,2333,Senior Data Scientist,lgoAnalytics,'Pune',3-4 ,"'data science', 'machine learning'",-1.0,3,4,3.5,4
+2146,2328,2334,Senior Data Scientist,Mom Project,'Remote',2-7 ,"'data science', 'machine learning'",-1.0,2,7,4.5,4
+2147,2329,2335,Senior Data Scientist (Applied),CADENCE PARTNERS LLP,'Dehradun',2-4 ,"'data science', 'machine learning'",-1.0,2,4,3.0,4
+2148,2330,2336,Senior Data Scientist (theoretical),CADENCE PARTNERS LLP,'Dehradun',2-4 ,"'data science', 'artificial intelligence', 'machine learning', 'it skills'",-1.0,2,4,3.0,4
+2149,2331,2337,Sr . Field Data Scientist,Domino Data Lab,'Remote',3-8 ,"'data science', 'data scientist', 'machine learning'",-1.0,3,8,5.5,4
+2153,2335,2341,Senior Data Scientist,ecolab,'Pune',6-8 ,"'computer science', 'data science', 'sql'",-1.0,6,8,7.0,4
+2156,2338,2344,Senior Data Scientist,Snaphunt,'Remote',3-8 ,"'data science', 'machine learning'",-1.0,3,8,5.5,4
+2157,2339,2345,Senior Data Scientist,XYENTA LIMITED,'Remote',4-7 ,"'data science', 'big data', 'sql'",-1.0,4,7,5.5,4
+2166,2349,2355,Data Scientist: Advanced Analytics,IBM,'Bangalore',4-8 ,"'it skills', 'data science'",-1.0,4,8,6.0,4
+2176,2360,2366,Junior / Senior Data Scientist - Consulting Firm,Huquo Consulting Pvt. Ltd,'Mumbai',2-7 ,"'data science', 'r', 'data scientist'",-1.0,2,7,4.5,4
+2178,2362,2368,Junior/ Senior Data Scientist - Consulting Firm,Huquo Consulting Pvt. Ltd,'Mumbai',2-7 ,"'data science', 'data scientist'",-1.0,2,7,4.5,4
+2179,2363,2369,Junior/Senior Data Scientist,Huquo Consulting Pvt. Ltd,'Mumbai',1-6 ,"'data science', 'data scientist'",-1.0,1,6,3.5,4
+2184,2368,2374,Lead Data Scientist,ATYETI,'Pune',3-10 ,"'data science', 'data scientist', 'machine learning'",-1.0,3,10,6.5,4
+2189,2373,2379,Lead Data Scientist,Bit Brothers Tech Pvt Ltd,'Mumbai',4-6 ,"'computer science', 'data science', 'machine learning'",-1.0,4,6,5.0,4
+2194,2378,2384,Lead Data Scientist-New Frontiers,idfc first bank,'Remote',4-8 ,"'data science', 'machine learning'",-1.0,4,8,6.0,4
+2195,2380,2386,Hiring For Lead Data Scientist,Impact Guru,"'Thane', ' Navi Mumbai', 'Mumbai'",5-9 ,"'data science', 'data scientist'",-1.0,5,9,7.0,4
+2196,2381,2387,Lead Data Scientist,Tide Software,'Hyderabad',1-6 ,"'it skills', 'data science', 'big data'",-1.0,1,6,3.5,4
+2208,2394,2400,Data Scientist,Bigshyft Hiring for MyMoneyMantra,'NewDelhi',2-5 ,'data science',-1.0,2,5,3.5,4
+2217,2403,2409,Data Scientist,"Rakuten, Inc.",'Bangalore',3-7 ,"'computer science', 'data science', 'machine learning'",-1.0,3,7,5.0,4
+2218,2404,2410,Data Scientist,RKSV,"'Mumbai', 'Bangalore'",3-7 ,'data science',-1.0,3,7,5.0,4
+2219,2405,2411,Data scientist ( WFH ),SPM Jobs,'Bangalore',8-10 ,"'data scientist', 'machine learning'",-1.0,8,10,9.0,4
+2222,2408,2414,"Data Scientist, Customer DNA","Rakuten, Inc.",'Bangalore',2-7 ,"'computer science', 'data science', 'machine learning'",-1.0,2,7,4.5,4
+2225,2411,2417,Data Scientist,NextGen Healthcare,'Bangalore',2-6 ,"'data science', 'machine learning'",-1.0,2,6,4.0,4
+2226,2412,2418,Principal Data Scientist,Narayana Heath,'Bangalore',6-9 ,"'data science', 'artificial intelligence', 'data scientist'",-1.0,6,9,7.5,4
+2232,2418,2424,Data Scientist,Big Data BizViz,"'Hyderabad', 'Bangalore'",3-8 ,"'data scientist', 'machine learning'",-1.0,3,8,5.5,4
+2234,2420,2426,Data Scientist,Pixxel,'Bangalore',4-7 ,"'data science', 'data scientist', 'computer science'",-1.0,4,7,5.5,4
+2235,2421,2427,Data Scientist,Kaleidofin,"'Chennai', 'Bangalore'",6-11 ,"'data scientist', 'big data', 'machine learning'",-1.0,6,11,8.5,4
+2238,2424,2430,Data scientist,AMPLIFY ANALYTIX INDIA PRIVATE LIMITED,'Bengaluru',3-5 ,"'computer science', 'data science', 'machine learning'",-1.0,3,5,4.0,4
+2241,2427,2433,Principal Data Scientist,Walmart,'Bangalore',7-12 ,"'data science', 'machine learning', 'big data'",-1.0,7,12,9.5,4
+2243,2430,2436,DevRel Data Scientist,TruEra,'Bangalore',2-7 ,"'computer science', 'data science', 'artificial intelligence', 'machine learning'",-1.0,2,7,4.5,4
+2245,2432,2438,Zscaler Data Scientist,cloudneeti,'Bangalore',7-12 ,"'data scientist', 'computer science', 'machine learning'",-1.0,7,12,9.5,4
+2250,2437,2443,Staff Data Scientist,Myntra,'Bangalore',2-5 ,"'data science', 'java', 'data scientist', 'computer science'",-1.0,2,5,3.5,4
+2251,2438,2444,Data Scientist I,CommerceIQ,'Bangalore',1-3 ,"'data science', 'r', 'data scientist'",-1.0,1,3,2.0,4
+2254,2441,2447,Data Scientists-AI/ML,Peopleplus Professional Services Pvt. Ltd.,'Bangalore',3-7 ,"'computer science', 'data science', 'machine learning'",-1.0,3,7,5.0,4
+2255,2442,2448,Data Scientist,Becton Dickinson India Pvt Ltd,'Bangalore',3-7 ,"'computer science', 'data science', 'machine learning'",-1.0,3,7,5.0,4
+2266,2453,2459,Staff Data Scientist- Policy Optimization,"Rakuten, Inc.",'Bangalore',3-7 ,"'computer science', 'data science', 'machine learning'",-1.0,3,7,5.0,4
+2267,2454,2460,Staff Data Scientist,"Rakuten, Inc.",'Bangalore',3-7 ,"'computer science', 'data science', 'machine learning'",-1.0,3,7,5.0,4
+2273,2460,2466,Data Scientist,Hitachi Ltd.,'Bangalore',3-7 ,"'artificial intelligence', 'data scientist', 'machine learning'",-1.0,3,7,5.0,4
+2274,2461,2467,Data Scientist,Staffio HR,'Bangalore',4-6 ,"'java', 'data scientist'",-1.0,4,6,5.0,4
+2287,2474,2480,Data Scientist,Talent Zone Consultant,'Bangalore',10-12 ,"'data science', 'r', 'data scientist', 'computer science'",-1.0,10,12,11.0,4
+2288,2475,2481,Data Scientist,Klub,'Bangalore',2-5 ,"'data science', 'r', 'data scientist', 'machine learning'",-1.0,2,5,3.5,4
+2289,2476,2482,Data Scientist I,DAZN,'Bangalore',1-3 ,"'data scientist', 'computer science'",-1.0,1,3,2.0,4
+2291,2478,2484,Senio Executive - Data Scientist,NielsenIQ,'Bangalore',3-6 ,"'data science', 'data scientist', 'sql'",-1.0,3,6,4.5,4
+2298,2485,2491,Data Scientist,HotelHub,'Bangalore',6-11 ,"'r', 'data scientist', 'machine learning'",-1.0,6,11,8.5,4
+2300,2488,2494,Business Data Scientist - Bangalore,"Pantheon India Pvt Ltd.,",'Bangalore',2-3 ,"'artificial intelligence', 'data scientist', 'machine learning'",-1.0,2,3,2.5,4
+2302,2490,2496,Data Scientist - I / II,Sharechat,'Bangalore',1-3 ,"'java', 'data scientist', 'computer science'",-1.0,1,3,2.0,4
+2303,2491,2497,Data Scientist,jupiter,'Bangalore',2-5 ,"'data science', 'data scientist', 'computer science', 'machine learning'",-1.0,2,5,3.5,4
+2304,2492,2498,Principal Data Scientist,VANTAGEIQ TECHNOLOGIES (OPC) PRIVATE LIMITED,"'Chennai', 'Bangalore'",7-11 ,"'it skills', 'data science', 'machine learning'",-1.0,7,11,9.0,4
+2305,2493,2499,Data Scientist,HRDevi Talent Acquisition,'Bengaluru',5-7 ,'data scientist',-1.0,5,7,6.0,4
+2306,2494,2500,Data Scientist - Ads & Promotion Platform (APP),Gojek,'Bangalore',3-8 ,"'data science', 'machine learning'",-1.0,3,8,5.5,4
+2307,2495,2501,Distinguished Data Scientist,Walmart,'Bangalore',10-14 ,"'it skills', 'data science', 'big data', 'artificial intelligence', 'machine learning'",-1.0,10,14,12.0,4
+2309,2497,2503,Data Scientist,News Technology Services,'Bangalore',3-6 ,"'data science', 'machine learning'",-1.0,3,6,4.5,4
+2310,2499,2505,Data Scientist,Sense Talent Labs,'Bangalore',2-6 ,"'data science', 'data scientist'",-1.0,2,6,4.0,4
+2311,2501,2507,Data Scientist,BCD Meetings & Events,'Bangalore',2-5 ,"'data science', 'machine learning'",-1.0,2,5,3.5,4
+2312,2502,2508,Data Scientist,Advito,'Bangalore',3-7 ,"'data science', 'machine learning'",-1.0,3,7,5.0,4
+2313,2503,2509,"Data Scientist-Supply Chain Analytics-Chainalytics,Bangalore",CHAINALYTICS SERVICES PRIVATE LIMITED,'Bangalore',4-6 ,"'data science', 'r', 'sql'",-1.0,4,6,5.0,4
+2314,2504,2510,Data Scientist,Capco,'Bangalore',4-9 ,"'data science', 'big data'",-1.0,4,9,6.5,4
+2315,2505,2511,Data Scientist,BCD Travel,'Bangalore',3-7 ,"'data science', 'machine learning'",-1.0,3,7,5.0,4
+2317,2507,2513,Data Scientist @ Bangalore,Fujitsu,"'Pune', 'Bangalore'",4-9 ,'data science',-1.0,4,9,6.5,4
+2319,2509,2515,Data Scientist,Brillio,'Bangalore',3-6 ,"'data science', 'machine learning'",-1.0,3,6,4.5,4
+2320,2510,2516,Data Scientist,Scaleorg,"'Chennai', 'Bangalore'",3-8 ,"'data science', 'machine learning'",-1.0,3,8,5.5,4
+2322,2512,2518,Data Scientist,Brandmuscle,'Bangalore',4-7 ,"'data science', 'machine learning'",-1.0,4,7,5.5,4
+2324,2514,2520,Data Scientist,Braintosoul Consulting,'Bengaluru',5-10 ,"'it skills', 'data science', 'computer science'",-1.0,5,10,7.5,4
+2325,2515,2521,Data Scientist Machine Learning (Commerce BU),Blue Yonder,'Bengaluru',4-8 ,"'machine learning', 'it skills', 'data science'",-1.0,4,8,6.0,4
+2326,2516,2522,Data Scientist,Narayana Health,'Bangalore',2-4 ,'data scientist',-1.0,2,4,3.0,4
+2327,2517,2523,Data Scientist,NTT Data,'Bengaluru',1-3 ,"'it skills', 'data science'",-1.0,1,3,2.0,4
+2328,2518,2524,Data Scientist,Jupiter.money,'Bangalore',2-5 ,"'data science', 'data scientist', 'computer science', 'machine learning'",-1.0,2,5,3.5,4
+2330,2520,2526,Data Scientist,BPRISE,'Mumbai',3-7 ,"'data science', 'machine learning', 'big data'",-1.0,3,7,5.0,4
+2333,2525,2531,Data Scientist,Reubro,"'Kochi', 'Cochin'",3-8 ,"'it skills', 'data science', 'machine learning', 'big data'",-1.0,3,8,5.5,4
+2334,2526,2532,Data Scientist,Reubro,'Kochi',3-8 ,"'it skills', 'data science', 'machine learning', 'big data'",-1.0,3,8,5.5,4
+2335,2527,2533,Data Scientist,Reubro,'Kochi',3-8 ,"'it skills', 'data science', 'machine learning', 'big data'",-1.0,3,8,5.5,4
+2336,2528,2534,"Software Developers / Coders - AI, ML and Data Scientist",NIYA LOGISTICS & AVIATION SKILL DEVELOPMENT TECHNOLOGY PRIVATE LIMITED,'Bangalore',1-3 ,"'data science', 'java', 'artificial intelligence', 'machine learning'",-1.0,1,3,2.0,4
+2337,2529,2535,Data Scientist,ANI Technologies Pvt. Ltd.,'Bangalore',5-8 ,"'computer science', 'data science', 'machine learning'",-1.0,5,8,6.5,4
+2343,2536,2542,Data Scientist,Becton Dickinson India Pvt Ltd,'Bangalore',6-11 ,"'data science', 'machine learning'",-1.0,6,11,8.5,4
+2353,2550,2556,Data Scientist Machine Learning (Commerce BU),Blue Yonder,'Bengaluru',4-8 ,"'computer science', 'data science', 'machine learning', 'big data'",-1.0,4,8,6.0,4
+2363,2566,2572,Data Scientist / Machine Learning Engineer,PubMatic,'Pune',3-7 ,"'r', 'data scientist', 'computer science', 'machine learning'",-1.0,3,7,5.0,4
+2371,2574,2580,Sr. Data Scientist - Bangalore,Selective Global Search Pvt. Ltd.,'Bangalore',8-12 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,8,12,10.0,4
+2373,2576,2582,Senior Data Scientist with Pyspark and Databricks German MNC,Valuable Consulting,'Bangalore',8-10 ,"'sql', 'it skills', 'data science', 'machine learning'",-1.0,8,10,9.0,4
+2384,2591,2597,Data Scientist,Jubilant Foodworks,'Noida',3-6 ,'data science',-1.0,3,6,4.5,4
+2395,2603,2609,Data Scientist,NOVIQUE HEALTH,"'Mumbai', ' Delhi', 'Pune'",2-7 ,"'data science', 'machine learning'",-1.0,2,7,4.5,4
+2396,2604,2610,Data Scientist,Gauge Data Solutions Pvt Ltd,'Noida',2-7 ,'data scientist',-1.0,2,7,4.5,4
+2398,2606,2612,Data Scientist,Sun Life,'Gurgaon',4-9 ,'data science',-1.0,4,9,6.5,4
+2410,2621,2627,Assistant Manager/ Manager/ Data Scientist - Python/ Machine Learning,Huquo Consulting Pvt. Ltd,'Bangalore',3-8 ,"'data science', 'machine learning'",-1.0,3,8,5.5,4
+2416,2627,2633,Assistant Manager/Manager/Data Scientist - Python/Machine Learning,Huquo Consulting Pvt. Ltd,'Bangalore',3-8 ,"'data science', 'data scientist'",-1.0,3,8,5.5,4
+2460,2675,2681,Data Scientist,MetLife,'Hyderabad',3-5 ,"'data science', 'data scientist', 'big data'",-1.0,3,5,4.0,4
+2468,2683,2689,Data Scientist with AI and Optimisation Speciality,ICAV Tech Pvt. Ltd.,'Remote',2-7 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,2,7,4.5,4
+2469,2685,2691,"Data Scientist,Pan India",Grytfit Tech Pvt Ltd,'Remote',3-6 ,"'data scientist', 'machine learning'",-1.0,3,6,4.5,4
+2470,2686,2692,Data Scientist,Shaadi.com,'Mumbai',3-5 ,"'data science', 'r', 'data scientist', 'big data', 'machine learning'",-1.0,3,5,4.0,4
+2471,2687,2693,Data Scientist,SVKMs Narsee Monjee Institute of Management Studies - NMIMS,'Mumbai',2-7 ,'data science',-1.0,2,7,4.5,4
+2475,2692,2698,Data Scientist,MABZONE IT SOLUTIONS,'Mohali',2-3 ,"'data science', 'data scientist', 'computer science'",-1.0,2,3,2.5,4
+2486,2703,2709,Data Scientist,Contrado Imaging Ltd,'Ahmedabad',1-7 ,"'data science', 'data scientist'",-1.0,1,7,4.0,4
+2489,2706,2712,Data Scientist,Peak,'Hyderabad',2-7 ,"'data science', 'machine learning', 'sql'",-1.0,2,7,4.5,4
+2496,2713,2719,Data Scientist - Python/sas/r,Huquo Consulting Pvt. Ltd,'Mumbai',2-6 ,"'data science', 'data scientist'",-1.0,2,6,4.0,4
+2499,2716,2722,Data Scientist,ecolab,'Pune',3-5 ,"'computer science', 'data science'",-1.0,3,5,4.0,4
+2508,2725,2731,Data Scientist,Tech Vedika,'Hyderabad',3-6 ,"'data scientist', 'machine learning'",-1.0,3,6,4.5,4
+2513,2730,2736,Data Scientist,Teleperformance India,'Mumbai',1-6 ,"'computer science', 'data science', 'machine learning'",-1.0,1,6,3.5,4
+2518,2735,2741,Data Scientist,Kyndryl,'Chennai',3-7 ,"'it skills', 'data science', 'machine learning', 'big data', 'computer science'",-1.0,3,7,5.0,4
+2519,2736,2742,Data Scientist,iSOCRATES,'Mysore',3-7 ,"'data science', 'machine learning'",-1.0,3,7,5.0,4
+2527,2745,2751,Data Scientist I,Visible Alpha,'Mumbai',1-3 ,"'it skills', 'data science'",-1.0,1,3,2.0,4
+2530,2748,2754,Data Scientist,Internet Brands,'Mumbai',1-5 ,"'data science', 'r', 'data scientist', 'machine learning'",-1.0,1,5,3.0,4
+2539,2757,2763,Principal Data Scientist,Quadratyx,'Hyderabad',9-12 ,"'data science', 'machine learning', 'big data'",-1.0,9,12,10.5,4
+2547,2765,2771,Data Scientist,torcai digital media,'Pune',3-6 ,"'data science', 'machine learning'",-1.0,3,6,4.5,4
+2548,2766,2772,Data Scientist,Aiotize,'Mohali',3-7 ,"'data scientist', 'machine learning'",-1.0,3,7,5.0,4
+2551,2769,2775,"Principal Data Scientist,Pan India",Apna Recruiter,'Remote',7-10 ,"'data scientist', 'computer science', 'machine learning'",-1.0,7,10,8.5,4
+2553,2771,2777,Principal Data Scientist,CereSight,'India',4-9 ,"'computer science', 'data science', 'artificial intelligence', 'machine learning', 'big data'",-1.0,4,9,6.5,4
+2558,2778,2784,Data Scientist,Analytos,'India',2-4 ,'data science',-1.0,2,4,3.0,4
+2559,2779,2785,Principal Data Scientist,BookMyShow,'Mumbai',8-10 ,"'data scientist', 'big data'",-1.0,8,10,9.0,4
+2560,2780,2786,Data Scientist,Buckman,'Chennai',3-8 ,"'data science', 'machine learning'",-1.0,3,8,5.5,4
+2562,2783,2789,Data Scientist,Infobizzs Services,'Vadodara',2-5 ,'data scientist',-1.0,2,5,3.5,4
+2563,2784,2790,Data Scientist 2,Microsoft,'Hyderabad',3-6 ,"'machine learning', 'it skills', 'data science'",-1.0,3,6,4.5,4
+2564,2785,2791,Data Scientist,Central Business Solution,'Pune',2-7 ,"'it skills', 'machine learning', 'data scientist'",-1.0,2,7,4.5,4
+2565,2787,2793,Data Scientist,Diverse Lynx,'Pune',2-7 ,"'data science', 'it skills', 'data scientist'",-1.0,2,7,4.5,4
+2567,2789,2795,Data Scientist,Nisum Technologies,'Hyderabad',3-7 ,"'computer science', 'data science'",-1.0,3,7,5.0,4
+2568,2791,2797,Data Scientist,Hallmark IT Healthcare Solutions Private Limited,'Remote',5-8 ,"'data science', 'sql'",-1.0,5,8,6.5,4
+2575,2798,2804,Data Scientist,SPAATech Solutions India Pvt Ltd,'Kolkata',7-12 ,'data science',-1.0,7,12,9.5,4
+2605,2831,2837,Data Scientist,Kanpur plastipack ltd,'Kanpur',1-3 ,'data science',-1.0,1,3,2.0,4
+2608,2834,2840,Data Scientist,Aureus Analytics,'Mumbai',5-10 ,"'data science', 'machine learning'",-1.0,5,10,7.5,4
+2609,2835,2841,Data Scientist,Seven Consultancy,'Hyderabad',3-5 ,"'computer science', 'data science'",-1.0,3,5,4.0,4
+2613,2840,2846,Data Scientist,IndiaInfoline,'Mumbai',1-2 ,"'data science', 'big data'",-1.0,1,2,1.5,4
+2633,2864,2870,Assistant Vice President - Data Scientist - KPO,Huquo Consulting Pvt. Ltd,'India',6-10 ,"'data science', 'data scientist'",-1.0,6,10,8.0,4
+2634,2865,2871,Assistant Vice President - Data Scientist - KPO,Huquo Consulting Pvt. Ltd,'India',11-17 ,"'data science', 'data scientist'",-1.0,11,17,14.0,4
+2635,2866,2872,Assistant Vice President - Data Scientist,Huquo Consulting Pvt. Ltd,'India',6-11 ,"'data science', 'data scientist'",-1.0,6,11,8.5,4
+2640,2871,2877,Data Scientist - AWS/Python/Big Data Tools,Intelizest Consulting,'Chennai',7-12 ,"'data science', 'data scientist', 'big data'",-1.0,7,12,9.5,4
+2642,2873,2879,Team Leader - Data Scientist - Mumbai,Premier Consultants,'Mumbai',8-13 ,"'data science', 'data scientist'",-1.0,8,13,10.5,4
+2647,2878,2884,Senior Data & Applied Scientist,Microsoft,'Bangalore',5-8 ,"'data science', 'machine learning'",-1.0,5,8,6.5,4
+2657,2888,2894,Data Scientist -Mumbai /Bangalore -Only from Product Based Company,EVOLVE TECHNOLOGIES AND SERVICES PRIVATE LIMITED,"'Bangalore', 'Mumbai'",3-8 ,"'data science', 'artificial intelligence'",-1.0,3,8,5.5,4
+2662,2895,2901,Data Scientist | Python | PySpark | SQL | Upto 14 LPA,O3 Hire,"'Hyderabad', 'Gurgaon'",2-7 ,'data science',-1.0,2,7,4.5,4
+2692,2928,2934,Data Scientist,Tiger Analytics,'Chennai',4-9 ,'data scientist',-1.0,4,9,6.5,4
+2694,2930,2936,Data Scientist,Climate Connect,'Pune',2-5 ,'data scientist',-1.0,2,5,3.5,4
+2702,2938,2944,Machine Learning Data Science Practitioner,Accenture,'Bangalore',4-6 ,"'machine learning', 'data science'",-1.0,4,6,5.0,4
+2705,2941,2947,Machine Learning Data Science Practitioner,Accenture,'Hyderabad',4-6 ,"'data science', 'machine learning'",-1.0,4,6,5.0,4
+2712,2948,2954,Data Science Engineer - Machine/Deep Learning Models - R/Python/Scala,CarbyneTech India,'Hyderabad',4-8 ,"'machine learning', 'data science', 'artificial intelligence', 'big data'",-1.0,4,8,6.0,4
+2717,2953,2965,Machine Learning Data Science Practitioner,Accenture,'Bangalore',4-6 ,"'machine learning', 'data science'",-1.0,4,6,5.0,4
+2720,2956,2968,Machine Learning Data Science Practitioner,Accenture,'Hyderabad',4-6 ,"'data science', 'machine learning'",-1.0,4,6,5.0,4
+2727,2963,2975,Data Science Engineer - Machine/Deep Learning Models - R/Python/Scala,CarbyneTech India,'Hyderabad',4-8 ,"'machine learning', 'data science', 'artificial intelligence', 'big data'",-1.0,4,8,6.0,4
+2729,2965,2977,Manager- Data Science-Machine learning (9+ years) Female candidates,CRESCENDO GLOBAL LEADERSHIP HIRING INDIA PRIVATE L IMITED,'Gurgaon',9-14 ,"'data science', 'machine learning', 'it skills'",-1.0,9,14,11.5,4
+2730,2966,2978,Big Data / Data Science / Machine Learning / Solution Architect,Micron Tech,'Hyderabad',2-7 ,"'big data', 'machine learning', 'data science', 'java'",-1.0,2,7,4.5,4
+2731,2967,2979,Data Science Engineer- Machine/Deep Learning Models- R/Python/Scala,CarbyneTech India,'Hyderabad',4-8 ,"'data science', 'r', 'artificial intelligence', 'big data', 'machine learning'",-1.0,4,8,6.0,4
+2733,2969,2981,Sr. Data Scientist- Advanced Analytics/Data Science & Machine Learning,Fidelity IT Jobs,'Gurgaon',7-12 ,"'data science', 'r'",-1.0,7,12,9.5,4
+2734,2970,2982,Analyst - Data Science - Python/Machine Learning/Analytics,Huquo Consulting Pvt. Ltd,'Gurgaon',4-6 ,'data science',-1.0,4,6,5.0,4
+2740,2976,2988,Data Science Manager - Artificial Intelligence/Machine Learning,Yogy HR Solutions,'NaviMumbai',10-15 ,"'data science', 'artificial intelligence'",-1.0,10,15,12.5,4
+2741,2977,2989,Data Science Manager - Artificial Intelligence / Machine Learning,Yogy HR Solutions,'NaviMumbai',10-15 ,"'it skills', 'data science', 'machine learning', 'artificial intelligence'",-1.0,10,15,12.5,4
+2744,2980,2992,Team Lead - Machine Learning & Data Science,HackerEarth,'Bangalore',3-5 ,"'data science', 'machine learning', 'sql'",-1.0,3,5,4.0,4
+2747,2983,2995,Data Science Engineer- Machine/ Deep Learning Models- R/ Python/ Scala,CarbyneTech India,'Hyderabad',4-8 ,"'data science', 'artificial intelligence'",-1.0,4,8,6.0,4
+2753,2989,3001,Technology Lead - Data Science / Machine Learning,Infosys,'Bangalore',5-10 ,"'data science', 'machine learning'",-1.0,5,10,7.5,4
+2756,2992,3004,Engineering Manager - Data Science & Machine Learning,BookMyShow,'Mumbai',8-12 ,"'data science', 'big data'",-1.0,8,12,10.0,4
+2758,2994,3006,Data Science Machine Learning Engineering manager,CareerXperts Consulting,'India',8-10 ,"'computer science', 'data science', 'machine learning'",-1.0,8,10,9.0,4
+2759,2995,3007,Data Science / Machine Learning stream project intern,Vikatan,'Chennai',0-1 ,"'computer science', 'data science', 'machine learning'",-1.0,0,1,0.5,4
+2764,3000,3012,Associate Principal Consultant (Business Analyst),Nagarro,'Remote',9-12 ,"'data science', 'machine learning', 'it skills', 'big data'",-1.0,9,12,10.5,4
+2767,3003,3015,Senior Admission Counselors/Manager,Asian Society of Film And Television,'Noida',3-6 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,3,6,4.5,4
+2769,3005,3017,Supply Chain Lead,Wipro,"'Hyderabad', ' Pune', ' Chennai', ' Bangalore', 'Delhi'",10-15 ,"'machine learning', 'it skills', 'data science'",-1.0,10,15,12.5,4
+2778,3014,3026,Machine Learning Data Science Practitioner (Opening in MNC)(Bengaluru),Krazy Mantra HR Solutions Pvt. Ltd,'Bangalore',16-21 ,"'artificial intelligence', 'machine learning', 'it skills', 'big data', 'data science'",-1.0,16,21,18.5,4
+2779,3015,3027,Machine Learning Data Science Practitioner (Opening in MNC)(Bengaluru),Krazy Mantra HR Solutions Pvt. Ltd,'Bangalore',12-17 ,"'artificial intelligence', 'machine learning', 'it skills', 'big data', 'data science'",-1.0,12,17,14.5,4
+2780,3016,3028,Data Scientist,SplashLearn,'Gurgaon',4-9 ,"'computer science', 'data science', 'machine learning'",-1.0,4,9,6.5,4
+2781,3017,3029,Data Scientist,Splash M,'Gurgaon',2-6 ,"'computer science', 'data science', 'machine learning'",-1.0,2,6,4.0,4
+2783,3019,3031,Sr. Data Analyst | Gurgaon,Weather Risk Management Services Private Limited,"'Gurgaon', 'Delhi'",5-8 ,"'data science', 'r', 'machine learning'",-1.0,5,8,6.5,4
+2796,3032,3044,Senior Associate Director - Data Science - Insurance - IIT/IIM,Huquo Consulting Pvt. Ltd,'Gurgaon',7-12 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,7,12,9.5,4
+2798,3035,3047,Distinguished Engineer-(Java +AWS),Fidelity International,"'Gurgaon', 'Delhi'",10-13 ,"'java', 'data science', 'machine learning'",-1.0,10,13,11.5,4
+2800,3037,3049,Technical SME - Data Science and Analytics,Fractal Analytics,"'Mumbai', ' Gurgaon', 'Bangalore'",3-6 ,"'data science', 'machine learning'",-1.0,3,6,4.5,4
+2801,3038,3050,Farfetch - Senior Data Scientist,Farfetch,'NewDelhi',5-9 ,"'computer science', 'data science', 'machine learning'",-1.0,5,9,7.0,4
+2803,3040,3052,Head - Data Science & Analytics - Bank,Dimensions HRD Consultants,'Gurgaon',12-16 ,"'data science', 'big data', 'machine learning'",-1.0,12,16,14.0,4
+2806,3043,3055,Senior Data Scientist/Data Scientist,Tredence Analytics Solutions Private Limited,"'Gurgaon', ' Chennai', 'Bangalore'",2-7 ,"'data science', 'machine learning'",-1.0,2,7,4.5,4
+2810,3047,3059,Hiring For Data Analyst and Data Scientist For Gurgaon Location,Shadow Placements,"'Noida', ' Gurgaon', 'Delhi'",3-7 ,"'machine learning', 'data science', 'r'",-1.0,3,7,5.0,4
+2812,3049,3061,Senior Data Scientist,Recruiterflow Inc,'Gurgaon',3-8 ,"'it skills', 'data science', 'machine learning'",-1.0,3,8,5.5,4
+2813,3050,3062,MLAI Digital - Data Engineer ||,MLAI Digital,"'Bangalore', 'Delhi'",3-6 ,"'data science', 'machine learning'",-1.0,3,6,4.5,4
+2814,3052,3064,Data Science Manager,Tredence Analytics Solutions Private Limited,"'Pune', ' Gurgaon', ' Chennai', 'Bangalore'",7-12 ,"'data science', 'machine learning'",-1.0,7,12,9.5,4
+2819,3057,3069,Analytics Trainer @ Imarticus Learning,Imarticus,"'Hyderabad', ' Pune', ' Chennai', ' Bangalore', ' Delhi ', 'Mumbai'",4-9 ,"'data science', 'machine learning', 'r', 'artificial intelligence'",-1.0,4,9,6.5,4
+2823,3061,3073,AI Developer,SIGNITY CORPORATE SOLUTIONS PRIVATE LIMITED,'Delhi',3-8 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,3,8,5.5,4
+2824,3062,3074,Senior Manager / Chief Manager - Data Scientist / Analytics,LIGHTHOUSE SEARCH (OPC) PRIVATE LIMITED,"'Gurgaon', 'Mumbai'",6-11 ,"'data science', 'machine learning', 'artificial intelligence'",-1.0,6,11,8.5,4
+2825,3063,3075,Aws Developer | Remote,Vaco Binary Semantics LLP,'Remote',5-10 ,"'data science', 'machine learning', 'big data', 'artificial intelligence'",-1.0,5,10,7.5,4
+2831,3069,3081,"Data Science Engineer, SMART MFG & AI",Micron Tech,'Hyderabad',6-11 ,"'data science', 'machine learning', 'java'",-1.0,6,11,8.5,4
+2832,3070,3082,Machine Learning Engineer I,Phenompeople,'Hyderabad',1-6 ,"'computer science', 'data science', 'machine learning'",-1.0,1,6,3.5,4
+2833,3071,3083,Machine Learning Engineer II,Phenompeople,'Hyderabad',5-10 ,"'computer science', 'data science', 'machine learning'",-1.0,5,10,7.5,4
+2834,3072,3084,Machine Learning Engineer III,Phenompeople,'Hyderabad',6-11 ,"'computer science', 'data science', 'machine learning'",-1.0,6,11,8.5,4
+2835,3073,3085,Data Scientist,Wolters Kluwer,"'Mumbai', 'Pune'",6-8 ,"'computer science', 'data science', 'machine learning'",-1.0,6,8,7.0,4
+2839,3077,3089,Machine Learning Engineer - BTP Core,SAP India Pvt.Ltd,'Bangalore',3-8 ,"'machine learning', 'data science', 'java'",-1.0,3,8,5.5,4
+2840,3078,3090,Session Lead (External Contractor),Udacity,'remote',2-5 ,"'it skills', 'data science', 'artificial intelligence', 'machine learning'",-1.0,2,5,3.5,4
+2843,3082,3094,"Manager, Data Science",Micron Tech,'Bangalore',5-10 ,"'data science', 'artificial intelligence'",-1.0,5,10,7.5,4
+2845,3084,3096,Senior Associate Director - Data Science - Insurance,Huquo Consulting Pvt. Ltd,'Gurgaon',10-15 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,10,15,12.5,4
+2846,3085,3097,Data Scientist,Nokia,'Gurgaon',4-7 ,"'data science', 'machine learning'",-1.0,4,7,5.5,4
+2853,3092,3104,Senior Advisor Data science,Dell,'Bangalore',8-12 ,"'data science', 'it skills', 'machine learning', 'big data'",-1.0,8,12,10.0,4
+2855,3094,3106,Data Scientist: Advanced Analytics,IBM,'Bangalore',2-5 ,"'it skills', 'data science', 'machine learning'",-1.0,2,5,3.5,4
+2856,3095,3107,Sr Data Scientist,Apptio India LLP,'Bangalore',7-11 ,"'machine learning', 'data science'",-1.0,7,11,9.0,4
+2861,3100,3112,Data Scientist,KWALEE INDIA PRIVATE LIMITED,'Bangalore',2-7 ,"'data science', 'machine learning'",-1.0,2,7,4.5,4
+2862,3101,3113,Junior Data Scientist,KWALEE INDIA PRIVATE LIMITED,'Bangalore',1-6 ,"'data science', 'machine learning'",-1.0,1,6,3.5,4
+2865,3104,3116,Trainee AI/ML Engineer,Predictive Research,'Bangalore',0-2 ,"'it skills', 'data science', 'machine learning', 'artificial intelligence', 'big data'",-1.0,0,2,1.0,4
+2867,3106,3118,LNT Hiring || Data Scientist || Mumbai & Delhi (On Site),Federal Soft Systems Private Limited,"'Mumbai', 'Delhi'",4-9 ,"'data science', 'machine learning'",-1.0,4,9,6.5,4
+2873,3112,3124,Chief Intelligence Officer - Data Science & Analytics,TalPro,"'Mumbai', ' Gurgaon', ' Delhi ', 'Bangalore'",8-12 ,"'data science', 'r', 'machine learning'",-1.0,8,12,10.0,4
+2875,3114,3126,Specialist - Data Scientist,UPL,'Mumbai',7-12 ,"'data science', 'r', 'artificial intelligence', 'machine learning'",-1.0,7,12,9.5,4
+2876,3115,3127,"Product Manager II, Customer Obsession",Uber,'Bangalore',2-5 ,"'computer science', 'data science', 'machine learning'",-1.0,2,5,3.5,4
+2878,3117,3129,Senior Machine Learning Engineer,Poshmark,'Chennai',2-5 ,"'data science', 'machine learning'",-1.0,2,5,3.5,4
+2880,3119,3131,Senior Data Scientist,Utopus Insights,'Bangalore',5-10 ,"'computer science', 'data science', 'machine learning'",-1.0,5,10,7.5,4
+2886,3125,3137,"Senior Product Manager, Machine Learning Platform",Better.com,'remote',5-9 ,"'data science', 'machine learning'",-1.0,5,9,7.0,4
+2889,3128,3140,Product management Intern,Enveda Biosciences,'Remote',0-2 ,"'data science', 'machine learning'",-1.0,0,2,1.0,4
+2894,3133,3145,Data Scientist,DigilyticsAI,'Gurgaon',3-6 ,"'machine learning', 'data science', 'r', 'artificial intelligence'",-1.0,3,6,4.5,4
+2897,3136,3148,Associate Vice President - Analytics - Data Science Team,Huquo Consulting Pvt. Ltd,"'Gurgaon', 'Delhi'",10-15 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,10,15,12.5,4
+2910,3150,3162,"Sr . Analyst , Modeling",Resource Access Management Solutions Pvt. Ltd.,'Noida',2-3 ,"'data science', 'machine learning'",-1.0,2,3,2.5,4
+2915,3155,3167,Devops Engineer || Allegis- TEKsystems,Allegis Services India Pvt. Ltd.,"'Hyderabad', ' Chennai', 'Bangalore'",4-9 ,"'r', 'data science', 'machine learning'",-1.0,4,9,6.5,4
+2916,3156,3168,Devops Engineer || Allegis- TEKsystems,Allegis Services India Pvt. Ltd.,"'Hyderabad', ' Chennai', 'Bangalore'",4-9 ,"'r', 'data science', 'machine learning'",-1.0,4,9,6.5,4
+2917,3157,3169,Machine Learning Engineer - Computer Vision,Scandid,'Pune',4-8 ,"'machine learning', 'data science'",-1.0,4,8,6.0,4
+2918,3158,3170,Data Scientist,DBS,'Mumbai',2-7 ,"'r', 'data science', 'machine learning'",-1.0,2,7,4.5,4
+2919,3159,3171,Principal Data Scientist,Societe Generale,'Bangalore',8-13 ,"'machine learning', 'data science', 'r'",-1.0,8,13,10.5,4
+2927,3168,3180,Data Analyst,Wolters Kluwer,"'Mumbai', 'Pune'",3-6 ,"'computer science', 'data science', 'machine learning'",-1.0,3,6,4.5,4
+2928,3169,3181,Data Scientist,CRED,'Bangalore',2-5 ,"'data science', 'machine learning'",-1.0,2,5,3.5,4
+2929,3170,3182,Lead Machine Learning Engineer,Kimberly-Clark Lever Limited,'Bangalore',12-17 ,"'computer science', 'data science', 'machine learning'",-1.0,12,17,14.5,4
+2933,3174,3186,Team Lead/Consultant-Data Science,Accenture,'Bangalore',7-11 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,7,11,9.0,4
+2937,3178,3190,DATA SCIENCE MANAGER SMART MFG & AI,Micron Tech,'Hyderabad',7-12 ,"'data science', 'artificial intelligence'",-1.0,7,12,9.5,4
+2938,3179,3191,Artificial Intelligence Strategist,Kimberly-Clark Lever Limited,'Bangalore',12-17 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,12,17,14.5,4
+2942,3183,3195,Team Lead/Consultant-Data Science,Accenture,'Bangalore',7-11 ,"'it skills', 'data science', 'machine learning', 'artificial intelligence'",-1.0,7,11,9.0,4
+2945,3186,3198,"Manager, Data Engineering (Evergreen)",Micron Tech,'Hyderabad',5-10 ,"'data science', 'java', 'artificial intelligence'",-1.0,5,10,7.5,4
+2946,3187,3199,Content Strategist,AcadsHR,'Bangalore',2-6 ,"'data science', 'machine learning', 'big data'",-1.0,2,6,4.0,4
+2947,3188,3200,Team Lead/Consultant-Artificial Intelligence Innovation,Accenture,'Bangalore',7-11 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,7,11,9.0,4
+2948,3189,3201,Cybersecurity Business Analyst,Kimberly-Clark Lever Limited,'Bangalore',5-10 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,5,10,7.5,4
+2951,3192,3204,Data Science Data Science Practitioner,Accenture,'Bangalore',8-10 ,"'data science', 'machine learning'",-1.0,8,10,9.0,4
+2952,3193,3205,Team Lead/Consultant-Data Science,Accenture,'Mumbai',7-11 ,"'it skills', 'data science', 'machine learning', 'artificial intelligence'",-1.0,7,11,9.0,4
+2953,3194,3206,Assistant Client Solutions Partner,Quantiphi Analytics Solutions Pvt. Ltd.,"'Bangalore', 'Mumbai'",5-7 ,"'it skills', 'data science', 'machine learning', 'artificial intelligence'",-1.0,5,7,6.0,4
+2954,3195,3207,Faculty - Dept. of Computer Science Engineering,Amrita Vishwa Vidyapeetham,'Coimbatore',3-6 ,"'data science', 'artificial intelligence', 'computer science'",-1.0,3,6,4.5,4
+2955,3196,3208,DBCG - GAMMA Lead Scientist,Boston Consulting Group,"'Mumbai', ' New Delhi', ' Chennai', 'Bangalore'",5-10 ,"'data science', 'r', 'artificial intelligence', 'computer science'",-1.0,5,10,7.5,4
+2956,3197,3209,Retail- Analytics Consultant,AVE-Promagne,"'Noida', ' Kota', ' Mumbai', ' New Delhi', ' Lucknow', ' Gurgaon', ' Jaipur', 'Bangalore'",1-6 ,"'data science', 'machine learning'",-1.0,1,6,3.5,4
+2957,3198,3210,Data Scientist,Boston Consulting Group,'NewDelhi',2-5 ,"'data science', 'data scientist', 'artificial intelligence', 'computer science', 'big data'",-1.0,2,5,3.5,4
+2958,3199,3211,Senior Data Scientist,Boston Consulting Group,"'Mumbai', ' Delhi', 'Chennai'",1-2 ,"'computer science', 'data science', 'artificial intelligence', 'machine learning'",-1.0,1,2,1.5,4
+2960,3201,3213,Data Scientist / ML Engineer,AVE-Promagne,"'Noida', ' Kota', ' Mumbai', ' Chandigarh', ' Lucknow', ' Agra', ' Gurgaon', ' Jaipur', 'Bangalore'",3-8 ,"'data science', 'machine learning'",-1.0,3,8,5.5,4
+2961,3202,3214,Marketing / Sales- Analytics Consultant,AVE-Promagne,"'Noida', ' Kota', ' Mumbai', ' Chandigarh', ' Lucknow', ' Agra', ' Gurgaon', ' Jaipur', 'Bangalore'",1-6 ,"'data science', 'machine learning'",-1.0,1,6,3.5,4
+2962,3203,3215,DBCG IND - GAMMA Senior Data Scientist,Boston Consulting Group,"'Mumbai', ' Delhi', ' Chennai', 'Bengaluru'",6-10 ,"'computer science', 'data science', 'artificial intelligence', 'machine learning'",-1.0,6,10,8.0,4
+2963,3204,3216,Manager Membership Tech / Analytics,Adidas,'Gurgaon',2-3 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,2,3,2.5,4
+2965,3206,3218,"Principal, DevOps",GSK India,'Bangalore',10-20 ,'data science',-1.0,10,20,15.0,4
+2966,3207,3219,Associate - Projects,Cognizant,'Bangalore',5-10 ,"'data science', 'it skills', 'machine learning'",-1.0,5,10,7.5,4
+2967,3208,3220,Associate - Projects,Cognizant,'Bangalore',3-8 ,"'data science', 'machine learning'",-1.0,3,8,5.5,4
+2972,3213,3225,Head Data Analytics,NPCI,'Hyderabad',12-20 ,"'data science', 'java', 'artificial intelligence', 'machine learning'",-1.0,12,20,16.0,4
+2973,3214,3226,Modeling Analyst/ Manager,Isha Foundation,'Coimbatore',2-7 ,"'artificial intelligence', 'machine learning', 'data science'",-1.0,2,7,4.5,4
+2974,3216,3228,Data Scientist,Zekardo Automotive Solutions,'Gurgaon',5-8 ,'data science',-1.0,5,8,6.5,4
+2977,3219,3231,Senior Data Engineer,Essence,'NewDelhi',1-3 ,"'data science', 'r', 'big data'",-1.0,1,3,2.0,4
+2982,3224,3236,Data & Applied Scientist,Microsoft,"'Noida', ' Hyderabad', 'Bangalore'",3-7 ,"'data science', 'machine learning'",-1.0,3,7,5.0,4
+2983,3226,3238,Data Scientist - Process Excellence & Analytics,Huquo Consulting Pvt. Ltd,'Noida',2-4 ,"'data science', 'data scientist', 'machine learning'",-1.0,2,4,3.0,4
+2985,3228,3240,Lead - Data Science - KPO,Huquo Consulting Pvt. Ltd,"'Hyderabad', ' Pune', ' Chennai', ' Gurgaon', 'Bangalore'",3-8 ,'data science',-1.0,3,8,5.5,4
+2987,3230,3242,Web Analytics Data Insights Analyst / Sr. Analyst,AbsolutData Research Analytics Solutions Pvt. Lt,'NewDelhi',4-8 ,"'data science', 'machine learning'",-1.0,4,8,6.0,4
+2988,3231,3243,Data Scientist - BFSI,Huquo Consulting Pvt. Ltd,"'Gurgaon', 'Delhi'",3-8 ,"'data science', 'data scientist', 'machine learning'",-1.0,3,8,5.5,4
+2991,3234,3246,Junior Data Scientist/ta,WSD Consultant,"'Mumbai', ' Hyderabad', ' Pune', ' Gurgaon', ' Chennai', 'Bengaluru'",1-5 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,1,5,3.0,4
+2993,3236,3248,"Senior Analyst, Business Intelligence & Data Science",Ciena,'Gurgaon',8-12 ,"'data science', 'machine learning', 'sql'",-1.0,8,12,10.0,4
+2996,3239,3251,Lead - Data Scientist - Banking Domain - IIT/NIT/BITS,Huquo Consulting Pvt. Ltd,'Gurgaon',4-8 ,"'data science', 'r', 'machine learning'",-1.0,4,8,6.0,4
+2997,3240,3252,Senior Manager - Data Science,Smart Cube,"'Hyderabad', ' Bangalore', 'Delhi'",8-12 ,"'machine learning', 'data science'",-1.0,8,12,10.0,4
+2999,3242,3254,Associate Data Engineer,Ecom Express Private Limited,'Gurgaon',1-4 ,"'data science', 'artificial intelligence', 'big data'",-1.0,1,4,2.5,4
+3004,3247,3259,Data Scientist,BlackBuck,"'Gurgaon', 'Bengaluru'",3-7 ,"'it skills', 'data science', 'machine learning'",-1.0,3,7,5.0,4
+3008,3251,3263,Analyst / Sr. Analyst- Data Science and Credit Analytics,BLUCOGNITION PRIVATE LIMITED,"'Pune', 'Bangalore'",3-8 ,"'machine learning', 'data science'",-1.0,3,8,5.5,4
+3009,3252,3264,Analyst- Data Science,Accenture,'Bangalore',3-5 ,"'data science', 'it skills', 'machine learning', 'artificial intelligence'",-1.0,3,5,4.0,4
+3011,3254,3266,Data Scientist and Director Data Scientist,OyoRooms,"'Hyderabad', ' Gurgaon', ' Bangalore', 'Delhi'",2-7 ,"'data science', 'machine learning'",-1.0,2,7,4.5,4
+3012,3255,3267,Data Scientist,T & A Solutions,'Gurgaon',2-6 ,"'computer science', 'data science', 'machine learning'",-1.0,2,6,4.0,4
+3018,3261,3273,ACN - Applied Intelligence - CC - Data Science (IN) - 10,Accenture,'Gurgaon',3-4 ,"'data science', 'computer science'",-1.0,3,4,3.5,4
+3020,3263,3275,Job Opening For Data Scientist_ Wunderman Thompson,Wunderman Thompson Commerce Private Limited,"'Bangalore', ' Delhi ', 'Mumbai'",0-2 ,"'data science', 'machine learning'",-1.0,0,2,1.0,4
+3022,3265,3277,Content Writer / Provider,IncBit Integrated Systems Pvt. Ltd.,'Delhi',0-1 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,0,1,0.5,4
+3025,3268,3280,Manager - Data Science - IIT/NIT/IIM/ISB/XLRI,Huquo Consulting Pvt. Ltd,'Gurgaon',5-9 ,"'it skills', 'machine learning', 'data science'",-1.0,5,9,7.0,4
+3029,3272,3284,Technical Architect,RGF Professional Recruitment,'Gurgaon',9-16 ,"'data science', 'machine learning'",-1.0,9,16,12.5,4
+3033,3276,3288,Senior Data Scientist,Shell,"'Chennai', 'Bangalore'",6-11 ,"'data science', 'r'",-1.0,6,11,8.5,4
+3034,3277,3289,Quantitative Analytics Specialist - NLP,Wells Fargo,'Bangalore',1-3 ,"'data science', 'r', 'artificial intelligence'",-1.0,1,3,2.0,4
+3036,3279,3291,Data Platform Architect,GSK India,'Bangalore',16-26 ,"'data science', 'artificial intelligence'",-1.0,16,26,21.0,4
+3038,3281,3293,Engineer Data Scientist,Micron Tech,'Hyderabad',5-10 ,"'machine learning', 'data science'",-1.0,5,10,7.5,4
+3041,3284,3296,Senior Data Scientist,TransUnion,'Pune',2-6 ,"'data science', 'data scientist', 'machine learning'",-1.0,2,6,4.0,4
+3045,3288,3300,Data Scientist,Fundnel Limited,'Mumbai',3-5 ,"'computer science', 'data science', 'machine learning'",-1.0,3,5,4.0,4
+3048,3291,3303,Team Lead/Consultant-Data Science,Accenture,'Mumbai',7-11 ,"'data science', 'machine learning'",-1.0,7,11,9.0,4
+3050,3293,3305,Data Scientist,"RapidOps, Inc",'Ahmedabad',1-5 ,"'it skills', 'data science', 'machine learning'",-1.0,1,5,3.0,4
+3052,3295,3307,Research Manager,Accenture,'India',6-10 ,"'it skills', 'data science', 'machine learning'",-1.0,6,10,8.0,4
+3055,3298,3310,Data Scientist For leading NBFC,SKILLVENTORY,'Pune',1-6 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,1,6,3.5,4
+3059,3302,3314,QA Engineer,Simplify360,'Bangalore',2-4 ,"'data science', 'machine learning'",-1.0,2,4,3.0,4
+3061,3304,3316,Senior Analyst-Data Science,Accenture,'Bangalore',5-8 ,"'data science', 'machine learning'",-1.0,5,8,6.5,4
+3062,3305,3317,Team Lead/Consultant-Data Science,Accenture,'Mumbai',7-11 ,"'data science', 'machine learning'",-1.0,7,11,9.0,4
+3063,3306,3318,Senior Analyst-Data Science,Accenture,'Mumbai',5-8 ,"'it skills', 'data science', 'machine learning', 'artificial intelligence'",-1.0,5,8,6.5,4
+3064,3307,3319,Dream Sports - Manager - Product,Dream11,'Mumbai',3-8 ,"'data science', 'machine learning'",-1.0,3,8,5.5,4
+3065,3308,3320,Associate Manager-Insights & Intelligence,Accenture,'Mumbai',10-14 ,"'it skills', 'data science', 'machine learning', 'artificial intelligence'",-1.0,10,14,12.0,4
+3067,3310,3322,Research Senior Analyst,Accenture,'Bangalore',2-5 ,"'it skills', 'data science', 'machine learning'",-1.0,2,5,3.5,4
+3110,3354,3367,Data Scientist - Image Recognition/Machine Learning,CarbyneTech India,'Hyderabad',5-10 ,"'data scientist', 'artificial intelligence', 'machine learning'",-1.0,5,10,7.5,4
+3112,3356,3369,Machine Learning Engineer (Image Processor),Serviam Manpower,'Gurgaon',2-4 ,"'machine learning', 'data scientist', 'machine learning'",-1.0,2,4,3.0,4
+3115,3359,3372,Machine Learning Engineer - BTP Core,SAP India Pvt.Ltd,'Bangalore',3-8 ,"'machine learning', 'data science', 'java'",-1.0,3,8,5.5,4
+3126,3370,3383,Machine Learning Data Science Practitioner,Accenture,'Bangalore',4-6 ,"'machine learning', 'data science'",-1.0,4,6,5.0,4
+3127,3371,3384,Senior Machine Learning Engineer,Poshmark,'Chennai',2-5 ,"'data science', 'machine learning'",-1.0,2,5,3.5,4
+3133,3378,3391,Machine Learning Engineer I,Phenompeople,'Hyderabad',1-6 ,"'computer science', 'data science', 'machine learning'",-1.0,1,6,3.5,4
+3134,3379,3392,Machine Learning Engineer II,Phenompeople,'Hyderabad',5-10 ,"'computer science', 'data science', 'machine learning'",-1.0,5,10,7.5,4
+3135,3380,3393,Machine Learning Engineer III,Phenompeople,'Hyderabad',6-11 ,"'computer science', 'data science', 'machine learning'",-1.0,6,11,8.5,4
+3139,3386,3399,Data Science Engineer - Machine/Deep Learning Models - R/Python/Scala,CarbyneTech India,'Hyderabad',4-8 ,"'machine learning', 'data science', 'artificial intelligence', 'big data'",-1.0,4,8,6.0,4
+3140,3387,3400,Machine Learning Engineer - Computer Vision,Scandid,'Pune',4-8 ,"'machine learning', 'data science'",-1.0,4,8,6.0,4
+3150,3397,3410,Machine Learning Data Science Practitioner,Accenture,'Hyderabad',4-6 ,"'data science', 'machine learning'",-1.0,4,6,5.0,4
+3161,3408,3421,Data Scientist - Image Processing/Machine Learning,CarbyneTech India,'Hyderabad',6-11 ,"'data science', 'data scientist', 'machine learning'",-1.0,6,11,8.5,4
+3162,3409,3422,Data Scientist - Image Processing/ Machine Learning,CarbyneTech India,'Hyderabad',6-11 ,"'data science', 'data scientist', 'machine learning'",-1.0,6,11,8.5,4
+3163,3410,3423,Lead Data Scientist - Statistical Modeling/Machine Learning,Bigtapp Analytics,'Chennai',5-8 ,"'data science', 'data scientist'",-1.0,5,8,6.5,4
+3166,3413,3426,Lead Machine Learning Engineer,Kimberly-Clark Lever Limited,'Bangalore',12-17 ,"'computer science', 'data science', 'machine learning'",-1.0,12,17,14.5,4
+3173,3420,3433,Sr. Data Scientist- Advanced Analytics/Data Science & Machine Learning,Fidelity IT Jobs,'Gurgaon',7-12 ,"'data science', 'r'",-1.0,7,12,9.5,4
+3178,3425,3438,Manager- Data Science-Machine learning (9+ years) Female candidates,CRESCENDO GLOBAL LEADERSHIP HIRING INDIA PRIVATE L IMITED,'Gurgaon',9-14 ,"'data science', 'machine learning', 'it skills'",-1.0,9,14,11.5,4
+3186,3433,3446,Data Science Engineer- Machine/Deep Learning Models- R/Python/Scala,CarbyneTech India,'Hyderabad',4-8 ,"'data science', 'r', 'artificial intelligence', 'big data', 'machine learning'",-1.0,4,8,6.0,4
+3199,3446,3459,Data Scientist - Machine Learning/Deep Learning,Serving Skill,'Bangalore',4-6 ,"'data science', 'data scientist', 'machine learning'",-1.0,4,6,5.0,4
+3201,3448,3461,Data Scientist - Machine Learning,Synctactic AI,'Bangalore',8-13 ,"'big data', 'machine learning', 'data science', 'java'",-1.0,8,13,10.5,4
+3207,3455,3468,"Senior Product Manager, Machine Learning Platform",Better.com,'remote',5-9 ,"'data science', 'machine learning'",-1.0,5,9,7.0,4
+3208,3456,3469,Sr. Machine Learning Engineer (Sr. AI),Teksun Microsys Pvt. Ltd.,'Ahmedabad',3-8 ,"'machine learning', 'it skills', 'data science'",-1.0,3,8,5.5,4
+3209,3457,3470,DevOps Engineer Data or Machine Learning Engineer & Scrum Master,SQUALAS,'Hyderabad',4-9 ,"'machine learning', 'it skills', 'data science'",-1.0,4,9,6.5,4
+3210,3458,3471,Big Data / Data Science / Machine Learning / Solution Architect,Micron Tech,'Hyderabad',2-7 ,"'big data', 'machine learning', 'data science', 'java'",-1.0,2,7,4.5,4
+3212,3460,3473,Analyst - Data Science - Python/Machine Learning/Analytics,Huquo Consulting Pvt. Ltd,'Gurgaon',4-6 ,'data science',-1.0,4,6,5.0,4
+3240,3489,3502,Data Scientist - Machine Learning,Catalyst,'Bangalore',2-7 ,"'data science', 'data scientist', 'machine learning'",-1.0,2,7,4.5,4
+3246,3495,3508,Software Engineer - Machine Learning/Deep Learning,Future India Services,"'India', 'Bangalore'",1-6 ,"'it skills', 'data science', 'machine learning'",-1.0,1,6,3.5,4
+3249,3498,3511,Lead Data Scientist ( Machine Learning in Alteryx): 2+ Yrs : Cmmi L5,HITECHMIND SOLUTIONS PRIVATE LIMITED,"'Noida', 'Delhi'",4-9 ,"'data science', 'sql'",-1.0,4,9,6.5,4
+3252,3501,3514,Machine Learning Engineer,Serviam Manpower,'Gurgaon',2-4 ,'data scientist',-1.0,2,4,3.0,4
+3279,3529,3542,Data Scientist - Machine Learning / Statistical Modeling,Yogy HR Solutions,'Mumbai',5-9 ,"'machine learning', 'it skills', 'data science', 'data scientist'",-1.0,5,9,7.0,4
+3293,3544,3557,Data Science Manager - Artificial Intelligence / Machine Learning,Yogy HR Solutions,'NaviMumbai',10-15 ,"'it skills', 'data science', 'machine learning', 'artificial intelligence'",-1.0,10,15,12.5,4
+3294,3545,3558,Data Science Manager - Artificial Intelligence/Machine Learning,Yogy HR Solutions,'NaviMumbai',10-15 ,"'data science', 'artificial intelligence'",-1.0,10,15,12.5,4
+3304,3555,3568,Lead Machine Learning Engineer/ Data Scientist,whiz.ai,'Pune',5-9 ,"'data science', 'data scientist', 'big data', 'machine learning'",-1.0,5,9,7.0,4
+3305,3557,3570,Data Scientist - Machine Learning,RPA Infotech Pvt.Ltd,'Gurgaon',2-7 ,"'computer science', 'data science', 'machine learning'",-1.0,2,7,4.5,4
+3307,3560,3573,Data Science / Machine Learning stream project intern,Vikatan,'Chennai',0-1 ,"'computer science', 'data science', 'machine learning'",-1.0,0,1,0.5,4
+3333,3590,3603,Lead Engineer - Data analytics and Machine learning,Carrier Technologies India Limited,'Hyderabad',4-9 ,"'artificial intelligence', 'machine learning', 'sql', 'data science', 'r'",-1.0,4,9,6.5,4
+3339,3596,3609,Data Science Engineer- Machine/ Deep Learning Models- R/ Python/ Scala,CarbyneTech India,'Hyderabad',4-8 ,"'data science', 'artificial intelligence'",-1.0,4,8,6.0,4
+3340,3597,3610,Machine Learning Engineer - Pan,17 Live,'Remote',0-1 ,"'data science', 'machine learning'",-1.0,0,1,0.5,4
+3341,3598,3611,Trainee Engineer - Machine Learning,Jumbo Labs Solutions,"'Chandigarh', 'Panchkula'",0-2 ,'data science',-1.0,0,2,1.0,4
+3343,3600,3613,Manager/Lead - Machine Learning/Analytics,Catalyst,'Bangalore',6-11 ,"'it skills', 'machine learning', 'artificial intelligence', 'data scientist'",-1.0,6,11,8.5,4
+3344,3602,3615,Technology Lead - Data Science / Machine Learning,Infosys,'Bangalore',5-10 ,"'data science', 'machine learning'",-1.0,5,10,7.5,4
+3346,3604,3617,Data Scientist / Machine Learning Engineer,PubMatic,'Pune',3-7 ,"'r', 'data scientist', 'computer science', 'machine learning'",-1.0,3,7,5.0,4
+3368,3626,3639,Machine Learning Engineer,Sutherland Global Services Inc,'Chennai',5-10 ,"'data science', 'artificial intelligence'",-1.0,5,10,7.5,4
+3376,3634,3647,Data Scientist Machine Learning (Commerce BU),Blue Yonder,'Bengaluru',4-8 ,"'computer science', 'data science', 'machine learning', 'big data'",-1.0,4,8,6.0,4
+3377,3635,3648,Data Scientist Machine Learning (Commerce BU),Blue Yonder,'Bengaluru',4-8 ,"'machine learning', 'it skills', 'data science'",-1.0,4,8,6.0,4
+3406,3666,3679,Assistant Manager/ Manager/ Data Scientist - Python/ Machine Learning,Huquo Consulting Pvt. Ltd,'Bangalore',3-8 ,"'data science', 'machine learning'",-1.0,3,8,5.5,4
+3408,3668,3681,Team Lead - Machine Learning & Data Science,HackerEarth,'Bangalore',3-5 ,"'data science', 'machine learning', 'sql'",-1.0,3,5,4.0,4
+3409,3669,3682,Machine Learning expert,FicusRoot,'Hyderabad',0-2 ,"'data science', 'machine learning'",-1.0,0,2,1.0,4
+3424,3685,3698,"Senior Machine Learning Engineer, NLP",Cactus Global,'Remote',3-8 ,"'data science', 'artificial intelligence'",-1.0,3,8,5.5,4
+3426,3687,3700,Senior Platform Engineer- Machine Learning Platform,jupiter,'Bangalore',3-7 ,"'data science', 'java', 'artificial intelligence', 'computer science', 'big data'",-1.0,3,7,5.0,4
+3428,3689,3702,Senior Platform Engineer- Machine Learning Platform,Jupiter.money,'Bangalore',5-10 ,"'data science', 'java', 'artificial intelligence', 'big data'",-1.0,5,10,7.5,4
+3430,3691,3704,Engineering Manager - Data Science & Machine Learning,BookMyShow,'Mumbai',8-12 ,"'data science', 'big data'",-1.0,8,12,10.0,4
+3432,3693,3706,Data Science Machine Learning Engineering manager,CareerXperts Consulting,'India',8-10 ,"'computer science', 'data science', 'machine learning'",-1.0,8,10,9.0,4
+3455,3716,3729,Machine Learning Engineer,Quantiphi Analytics Solutions Pvt. Ltd.,"'Mumbai', ' Bangalore', 'Trivandrum'",2-5 ,"'data science', 'machine learning', 'big data'",-1.0,2,5,3.5,4
+3459,3720,3733,"Engineering Manager, Machine Learning - Ads Prediction Products",Twitter,'Bangalore',3-8 ,"'data science', 'machine learning', 'it skills', 'computer science'",-1.0,3,8,5.5,4
+3466,3727,3740,Machine Learning Engineer,Wissen Infotech,"'Mumbai', 'Pune'",4-8 ,"'data science', 'artificial intelligence', 'big data'",-1.0,4,8,6.0,4
+3490,3753,3766,Assistant Manager/Manager/Data Scientist - Python/Machine Learning,Huquo Consulting Pvt. Ltd,'Bangalore',3-8 ,"'data science', 'data scientist'",-1.0,3,8,5.5,4
+3497,3760,3773,Product - Data and Machine Learning Platforms,CRED,'Bangalore',2-5 ,"'data science', 'machine learning'",-1.0,2,5,3.5,4
+3503,3766,3779,Machine Learning Architect,Netmeds,'Chennai',5-10 ,"'data science', 'artificial intelligence', 'big data'",-1.0,5,10,7.5,4
+3505,3768,3781,Senior Machine Learning Engineer,Zscaler Softech,'Bangalore',4-7 ,"'data science', 'data scientist', 'computer science', 'machine learning'",-1.0,4,7,5.5,4
+3506,3769,3782,Senior Machine Learning Engineer,cloudneeti,'Bangalore',3-6 ,"'data science', 'r', 'data scientist', 'computer science', 'machine learning'",-1.0,3,6,4.5,4
+3507,3770,3783,Senior Machine Learning Engineer,Gojek,'Bangalore',5-11 ,"'computer science', 'data science', 'machine learning'",-1.0,5,11,8.0,4
+3508,3771,3784,Senior Machine Learning Engineer,Jupiter.money,'Bangalore',3-7 ,"'data science', 'java', 'computer science', 'machine learning'",-1.0,3,7,5.0,4
+3513,3776,3789,Sr Staff Software Engineer(Machine Learning) PD (Commerce BU),Blue Yonder,'Bengaluru',5-10 ,"'computer science', 'data science', 'machine learning'",-1.0,5,10,7.5,4
+3525,3788,3801,Machine Learning Engineer,Pype,'Bengaluru',2-5 ,"'data science', 'machine learning'",-1.0,2,5,3.5,4
+3527,3790,3803,Principal Machine Learning Engineer,CareerXperts Consulting,'Bengaluru',7-11 ,"'computer science', 'data science', 'machine learning'",-1.0,7,11,9.0,4
+3538,3802,3815,Machine Learning Engineer,Stantec,'Pune',5-10 ,"'data science', 'artificial intelligence', 'data scientist'",-1.0,5,10,7.5,4
+3541,3806,3819,Engineering Manager - Machine Learning,Gojek,'Bangalore',8-13 ,"'computer science', 'data science', 'machine learning'",-1.0,8,13,10.5,4
+3545,3810,3823,Principal Machine Learning Engineer AI Product Startup,CareerXperts Consulting,"'Hyderabad', 'Chennai'",6-10 ,"'data science', 'machine learning'",-1.0,6,10,8.0,4
+3565,3830,3843,Engineering Manager-Machine Learning,"Cloudera, Inc.",'Bangalore',6-11 ,"'computer science', 'data science', 'machine learning', 'big data'",-1.0,6,11,8.5,4
+3570,3835,3848,Product Development Engineer II - Machine Learning,Phenompeople,'Hyderabad',3-7 ,"'computer science', 'data science', 'machine learning'",-1.0,3,7,5.0,4
+3571,3836,3849,Machine Learning Engineer,Cogneesol,'Mohali',2-4 ,"'machine learning', 'it skills', 'data science'",-1.0,2,4,3.0,4
+3572,3837,3850,Engineering Manager-Machine Learning,Hortonworks Inc.,'Bangalore',8-12 ,"'computer science', 'data science', 'machine learning', 'big data'",-1.0,8,12,10.0,4
+3582,3847,3860,Software Engineer (Machine Learning),Soroco India,'Bangalore',1-3 ,"'it skills', 'data science', 'machine learning', 'computer science'",-1.0,1,3,2.0,4
+3591,3856,3869,Machine Learning Scientist,Phenompeople,'Hyderabad',4-9 ,"'computer science', 'data science', 'machine learning'",-1.0,4,9,6.5,4
+3634,3903,3916,Machine Learning SSE,CGI Information Systems and Management Consultants Private Limited,"'Hyderabad', 'Bangalore'",3-7 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,3,7,5.0,4
+3640,3909,3922,Machine learning deep learning Experts,CrunchMetrics,'Bengaluru',6-8 ,"'data science', 'machine learning'",-1.0,6,8,7.0,4
+3648,3920,3933,Sr. Machine Learning Engineer,Workday,'Pune',3-4 ,"'data science', 'machine learning'",-1.0,3,4,3.5,4
+3656,3930,3943,Data Analyst - Machine/Deep Learning Algorithms,Huquo Consulting Pvt. Ltd,"'Gurgaon', 'Delhi'",2-7 ,"'data science', 'machine learning'",-1.0,2,7,4.5,4
+3663,3937,3950,Machine Learning Engineer,FiscalNote,'Remote',3-5 ,"'data science', 'data scientist'",-1.0,3,5,4.0,4
+3667,3941,3954,Staff Machine Learning Engineer,ICE Mortgage Technology,'Pune',2-3 ,"'it skills', 'data science', 'machine learning', 'computer science'",-1.0,2,3,2.5,4
+3681,3955,3968,machine learning engineer,Saffron Consultancy Services(scs),'Pune',3-5 ,"'data science', 'machine learning'",-1.0,3,5,4.0,4
+3686,3960,3973,Lead Engineer - Machine Learning | Advance Auto Parts,TALENT500 TECH (INDIA) PRIVATE LIMITED,'Hyderabad',8-12 ,"'data science', 'machine learning'",-1.0,8,12,10.0,4
+3740,4014,4027,Consultant / AM - AI - Machine Learning,KPMG,'Mumbai',2-6 ,"'data science', 'data scientist', 'machine learning'",-1.0,2,6,4.0,4
+3741,4015,4028,Machine Learning Lead,Squadcast,'Bengaluru',4-7 ,"'it skills', 'data science', 'machine learning'",-1.0,4,7,5.5,4
+3743,4017,4030,Lead Machine Learning,SVKMs Narsee Monjee Institute of Management Studies - NMIMS,'Mumbai',3-8 ,"'it skills', 'data science', 'machine learning', 'artificial intelligence', 'computer science'",-1.0,3,8,5.5,4
+3760,4035,4048,Product Manager- Artificial Intiligence/Machine Learning-(AI-ML),Pioneer Manpower Solutions,'Bangalore',6-10 ,"'machine learning', 'it skills', 'data science'",-1.0,6,10,8.0,4
+3761,4036,4049,Lead - Artificial Intelligence & Machine Learning,Search Advisers Services ( GUJ ) Pvt. Ltd.,'Bangalore',15-21 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,15,21,18.0,4
+3762,4037,4050,Lead - Artificial Intelligence & Machine Learning,Search Advisers Services ( GUJ ) Pvt. Ltd.,'Bangalore',15-21 ,"'data science', 'artificial intelligence', 'machine learning'",-1.0,15,21,18.0,4
+3765,4041,4054,Machine Learning Engineer,CHANGE LEADERS CONSULTING,"'Mumbai', ' Hyderabad', ' Pune', 'Chennai'",4-7 ,"'machine learning', 'data science'",-1.0,4,7,5.5,4
+3781,4059,4072,Senior Machine Learning Engineer,Zilingo.com,'Bangalore',4-9 ,"'computer science', 'data science', 'machine learning', 'big data'",-1.0,4,9,6.5,4
+3786,4065,4078,Machine Learning Engineer,Zilingo.com,'Bangalore',2-5 ,"'computer science', 'data science', 'machine learning'",-1.0,2,5,3.5,4
+3788,4067,4080,Machine Learning Data Science Practitioner (Opening in MNC)(Bengaluru),Krazy Mantra HR Solutions Pvt. Ltd,'Bangalore',16-21 ,"'artificial intelligence', 'machine learning', 'it skills', 'big data', 'data science'",-1.0,16,21,18.5,4
+3789,4068,4081,Machine Learning Data Science Practitioner (Opening in MNC)(Bengaluru),Krazy Mantra HR Solutions Pvt. Ltd,'Bangalore',12-17 ,"'artificial intelligence', 'machine learning', 'it skills', 'big data', 'data science'",-1.0,12,17,14.5,4
+3797,4076,4089,Research Analyst (Machine Learning),REConnect Energy,'Bangalore',1-5 ,"'computer science', 'data science', 'machine learning'",-1.0,1,5,3.0,4
+3815,4094,4107,Data Scientist: Advanced Analytics,IBM,'Bangalore',2-5 ,"'it skills', 'data science', 'machine learning'",-1.0,2,5,3.5,4
+3820,4099,4112,Job Opening For Data Scientist_ Wunderman Thompson,Wunderman Thompson Commerce Private Limited,"'Bangalore', ' Delhi ', 'Mumbai'",0-2 ,"'data science', 'machine learning'",-1.0,0,2,1.0,4
+3822,4101,4120,Senior Data Scientist/Data Scientist,Tredence Analytics Solutions Private Limited,"'Gurgaon', ' Chennai', 'Bangalore'",2-7 ,"'data science', 'machine learning'",-1.0,2,7,4.5,4
+3832,4111,4130,Principal Data Scientist,Societe Generale,'Bangalore',8-13 ,"'machine learning', 'data science', 'r'",-1.0,8,13,10.5,4
+3834,4113,4132,Technical SME - Data Science and Analytics,Fractal Analytics,"'Mumbai', ' Gurgaon', 'Bangalore'",3-6 ,"'data science', 'machine learning'",-1.0,3,6,4.5,4
+3841,4120,4139,Senior Data Scientist,Shell,"'Chennai', 'Bangalore'",6-11 ,"'data science', 'r'",-1.0,6,11,8.5,4
+3842,4121,4140,DBCG IND - GAMMA Senior Data Scientist,Boston Consulting Group,"'Mumbai', ' Delhi', ' Chennai', 'Bengaluru'",6-10 ,"'computer science', 'data science', 'artificial intelligence', 'machine learning'",-1.0,6,10,8.0,4
+3852,4131,4150,Specialist - Data Scientist,UPL,'Mumbai',7-12 ,"'data science', 'r', 'artificial intelligence', 'machine learning'",-1.0,7,12,9.5,4
+3862,4141,4160,Sr Data Scientist,Apptio India LLP,'Bangalore',7-11 ,"'machine learning', 'data science'",-1.0,7,11,9.0,4
+3867,4147,4166,Supply Chain Lead,Wipro,"'Hyderabad', ' Pune', ' Chennai', ' Bangalore', 'Delhi'",10-15 ,"'machine learning', 'it skills', 'data science'",-1.0,10,15,12.5,4
+3877,4159,4178,Associate Principal Consultant (Business Analyst),Nagarro,'Remote',9-12 ,"'data science', 'machine learning', 'it skills', 'big data'",-1.0,9,12,10.5,4
